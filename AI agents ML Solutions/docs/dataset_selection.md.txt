@@ -1,0 +1,14 @@
+# Dataset Selection
+
+Selected Dataset: Sales Dataset
+
+Reason:
+- Easy to analyze
+- Supports insights generation
+- Suitable for AI-powered question answering
+
+## Expected Queries
+- What is total revenue?
+- Which product sold the most?
+- Which month had highest sales?
+- Which category generated the highest profit?
