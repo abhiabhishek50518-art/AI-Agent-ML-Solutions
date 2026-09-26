@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,region,category,product_name,unit_price,quantity,discount,sales,profit
+ORD-1080,2024-01-01,CUST-131,North America,Software & Cloud,CRM Standard,450,4,0.0,1800.0,632.72
+ORD-1109,2024-01-01,CUST-113,Asia-Pacific,Hardware,RAM Kit 32GB,130,8,0.1,936.0,363.71
+ORD-1669,2024-01-01,CUST-111,Latin America,Office Supplies,Mechanical Keyboard,120,8,0.0,960.0,166.23
+ORD-1713,2024-01-01,CUST-137,North America,Office Supplies,LED Desk Lamp,45,9,0.2,324.0,99.2
+ORD-1769,2024-01-02,CUST-211,North America,Hardware,Graphics Card RTX,850,5,0.15,3612.5,755.98
+ORD-2106,2024-01-02,CUST-190,Europe,Hardware,RAM Kit 32GB,130,2,0.1,234.0,93.05
+ORD-1249,2024-01-03,CUST-217,Latin America,Hardware,Motherboard Z790,280,7,0.15,1666.0,736.79
+ORD-1157,2024-01-04,CUST-207,North America,Electronics,Laptop Pro,1200,2,0.0,2400.0,997.9
+ORD-1444,2024-01-04,CUST-215,Europe,Software & Cloud,Cloud Storage Pro,300,9,0.0,2700.0,841.67
+ORD-1792,2024-01-04,CUST-197,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,8,0.15,2040.0,903.69
+ORD-1065,2024-01-05,CUST-208,North America,Electronics,Tablet Air,600,6,0.1,3240.0,1051.03
+ORD-1423,2024-01-05,CUST-114,North America,Hardware,RAM Kit 32GB,130,9,0.1,1053.0,172.03
+ORD-1614,2024-01-05,CUST-143,North America,Hardware,Power Supply 850W,140,5,0.05,665.0,106.72
+ORD-1703,2024-01-06,CUST-180,Europe,Hardware,Graphics Card RTX,850,7,0.2,4760.0,1182.61
+ORD-1064,2024-01-07,CUST-126,Asia-Pacific,Office Supplies,Paper Shredder,90,8,0.05,684.0,183.99
+ORD-1094,2024-01-07,CUST-214,North America,Software & Cloud,AI Analytics Suite,1800,2,0.05,3420.0,876.35
+ORD-1135,2024-01-07,CUST-224,Asia-Pacific,Office Supplies,Ergonomic Chair,350,7,0.2,1960.0,309.6
+ORD-1256,2024-01-07,CUST-229,North America,Hardware,NVMe SSD 1TB,110,5,0.1,495.0,100.02
+ORD-1309,2024-01-07,CUST-242,Asia-Pacific,Office Supplies,Standing Desk,550,8,0.1,3960.0,1738.51
+ORD-1366,2024-01-07,CUST-247,North America,Hardware,Motherboard Z790,280,8,0.0,2240.0,568.43
+ORD-1650,2024-01-07,CUST-237,North America,Office Supplies,Ergonomic Chair,350,2,0.0,700.0,136.8
+ORD-1948,2024-01-07,CUST-210,North America,Office Supplies,LED Desk Lamp,45,5,0.1,202.5,60.82
+ORD-2022,2024-01-07,CUST-224,Europe,Hardware,Motherboard Z790,280,1,0.1,252.0,43.51
+ORD-2190,2024-01-07,CUST-100,North America,Office Supplies,Mechanical Keyboard,120,6,0.2,576.0,90.61
+ORD-1088,2024-01-08,CUST-192,Latin America,Hardware,RAM Kit 32GB,130,8,0.0,1040.0,435.8
+ORD-2065,2024-01-08,CUST-249,Europe,Hardware,Motherboard Z790,280,4,0.2,896.0,199.1
+ORD-1010,2024-01-09,CUST-235,Asia-Pacific,Hardware,NVMe SSD 1TB,110,8,0.1,792.0,166.04
+ORD-1167,2024-01-09,CUST-181,Europe,Software & Cloud,Security Vault,750,1,0.2,600.0,136.84
+ORD-1198,2024-01-09,CUST-107,Latin America,Office Supplies,Ergonomic Chair,350,7,0.0,2450.0,888.66
+ORD-1793,2024-01-09,CUST-162,Europe,Electronics,Tablet Air,600,2,0.1,1080.0,469.05
+ORD-2070,2024-01-09,CUST-199,Asia-Pacific,Electronics,Ultra Monitor,450,3,0.15,1147.5,250.67
+ORD-1272,2024-01-10,CUST-133,North America,Office Supplies,Standing Desk,550,8,0.2,3520.0,1399.34
+ORD-1603,2024-01-11,CUST-225,Asia-Pacific,Electronics,Tablet Air,600,6,0.2,2880.0,695.18
+ORD-1661,2024-01-11,CUST-192,North America,Hardware,Power Supply 850W,140,2,0.15,238.0,60.91
+ORD-1072,2024-01-12,CUST-221,North America,Office Supplies,LED Desk Lamp,45,8,0.15,306.0,76.71
+ORD-1260,2024-01-12,CUST-233,North America,Hardware,RAM Kit 32GB,130,4,0.05,494.0,115.26
+ORD-1291,2024-01-12,CUST-174,Asia-Pacific,Electronics,Laptop Pro,1200,2,0.2,1920.0,499.93
+ORD-1381,2024-01-12,CUST-207,Europe,Office Supplies,Ergonomic Chair,350,3,0.1,945.0,287.16
+ORD-1386,2024-01-13,CUST-192,North America,Software & Cloud,CRM Standard,450,7,0.05,2992.5,876.96
+ORD-1765,2024-01-14,CUST-133,North America,Office Supplies,LED Desk Lamp,45,6,0.15,229.5,40.81
+ORD-2030,2024-01-14,CUST-184,Asia-Pacific,Hardware,RAM Kit 32GB,130,5,0.05,617.5,145.84
+ORD-1187,2024-01-15,CUST-111,Europe,Office Supplies,Paper Shredder,90,3,0.0,270.0,93.29
+ORD-1052,2024-01-16,CUST-183,Europe,Hardware,Graphics Card RTX,850,1,0.15,722.5,235.34
+ORD-1407,2024-01-16,CUST-199,Europe,Electronics,Laptop Pro,1200,6,0.1,6480.0,2392.08
+ORD-1149,2024-01-17,CUST-134,Asia-Pacific,Electronics,Laptop Pro,1200,8,0.05,9120.0,2625.69
+ORD-1353,2024-01-17,CUST-140,North America,Hardware,Motherboard Z790,280,3,0.1,756.0,228.48
+ORD-1420,2024-01-17,CUST-124,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,7,0.05,1995.0,835.55
+ORD-1501,2024-01-17,CUST-106,Asia-Pacific,Software & Cloud,CRM Standard,450,5,0.05,2137.5,894.98
+ORD-1748,2024-01-17,CUST-219,Europe,Electronics,Laptop Pro,1200,4,0.05,4560.0,1370.75
+ORD-1774,2024-01-18,CUST-147,North America,Hardware,RAM Kit 32GB,130,9,0.15,994.5,399.03
+ORD-1777,2024-01-18,CUST-213,North America,Software & Cloud,SaaS Enterprise License,2500,5,0.05,11875.0,3978.29
+ORD-1242,2024-01-19,CUST-208,North America,Hardware,Graphics Card RTX,850,6,0.05,4845.0,2042.93
+ORD-1465,2024-01-19,CUST-183,Europe,Office Supplies,Paper Shredder,90,2,0.15,153.0,68.03
+ORD-1687,2024-01-19,CUST-134,Asia-Pacific,Office Supplies,Ergonomic Chair,350,4,0.2,1120.0,210.13
+ORD-2045,2024-01-19,CUST-112,North America,Software & Cloud,Cloud Storage Pro,300,9,0.15,2295.0,553.12
+ORD-1104,2024-01-20,CUST-137,Europe,Electronics,Ultra Monitor,450,1,0.05,427.5,162.59
+ORD-1317,2024-01-20,CUST-215,Asia-Pacific,Office Supplies,LED Desk Lamp,45,4,0.2,144.0,50.1
+ORD-2153,2024-01-20,CUST-193,Europe,Office Supplies,Ergonomic Chair,350,6,0.0,2100.0,806.1
+ORD-1925,2024-01-21,CUST-233,Europe,Office Supplies,Mechanical Keyboard,120,4,0.0,480.0,98.56
+ORD-2133,2024-01-21,CUST-166,North America,Software & Cloud,CRM Standard,450,4,0.05,1710.0,699.71
+ORD-1033,2024-01-22,CUST-120,Europe,Office Supplies,Paper Shredder,90,3,0.1,243.0,68.12
+ORD-1090,2024-01-22,CUST-145,North America,Electronics,Laptop Pro,1200,5,0.0,6000.0,1540.78
+ORD-1181,2024-01-22,CUST-128,Europe,Office Supplies,Mechanical Keyboard,120,2,0.05,228.0,101.93
+ORD-1200,2024-01-22,CUST-111,North America,Office Supplies,Mechanical Keyboard,120,9,0.15,918.0,339.18
+ORD-1583,2024-01-22,CUST-189,North America,Office Supplies,Mechanical Keyboard,120,8,0.0,960.0,238.52
+ORD-1728,2024-01-22,CUST-130,North America,Software & Cloud,Security Vault,750,3,0.0,2250.0,700.0
+ORD-2006,2024-01-22,CUST-201,Europe,Electronics,Laptop Pro,1200,8,0.1,8640.0,2088.38
+ORD-2188,2024-01-22,CUST-200,Asia-Pacific,Electronics,Tablet Air,600,5,0.05,2850.0,623.98
+ORD-1079,2024-01-23,CUST-244,North America,Electronics,Tablet Air,600,5,0.05,2850.0,1153.95
+ORD-1733,2024-01-23,CUST-145,Latin America,Software & Cloud,Security Vault,750,5,0.15,3187.5,754.45
+ORD-1763,2024-01-23,CUST-116,Europe,Electronics,Tablet Air,600,9,0.1,4860.0,1015.48
+ORD-1293,2024-01-24,CUST-202,North America,Office Supplies,Mechanical Keyboard,120,5,0.2,480.0,72.27
+ORD-1727,2024-01-24,CUST-198,North America,Hardware,Power Supply 850W,140,6,0.0,840.0,199.42
+ORD-2015,2024-01-24,CUST-125,North America,Hardware,Motherboard Z790,280,8,0.2,1792.0,404.92
+ORD-2183,2024-01-24,CUST-131,North America,Hardware,RAM Kit 32GB,130,5,0.05,617.5,241.91
+ORD-1201,2024-01-25,CUST-218,Europe,Electronics,Smart Watch,250,3,0.15,637.5,237.97
+ORD-1671,2024-01-25,CUST-191,Europe,Office Supplies,Paper Shredder,90,2,0.1,162.0,24.5
+ORD-1689,2024-01-25,CUST-179,North America,Hardware,Power Supply 850W,140,9,0.0,1260.0,312.77
+ORD-1988,2024-01-25,CUST-221,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,1,0.2,240.0,50.48
+ORD-2161,2024-01-25,CUST-216,North America,Office Supplies,Paper Shredder,90,7,0.1,567.0,115.1
+ORD-1221,2024-01-26,CUST-132,Europe,Hardware,NVMe SSD 1TB,110,8,0.0,880.0,314.04
+ORD-1534,2024-01-26,CUST-107,North America,Software & Cloud,Security Vault,750,8,0.1,5400.0,894.22
+ORD-1913,2024-01-26,CUST-150,Asia-Pacific,Office Supplies,Ergonomic Chair,350,9,0.1,2835.0,976.59
+ORD-2096,2024-01-26,CUST-116,Latin America,Electronics,Ultra Monitor,450,8,0.05,3420.0,729.0
+ORD-1143,2024-01-27,CUST-152,North America,Electronics,Smart Watch,250,8,0.05,1900.0,627.29
+ORD-1185,2024-01-27,CUST-146,Europe,Software & Cloud,SaaS Enterprise License,2500,8,0.15,17000.0,6279.48
+ORD-1799,2024-01-27,CUST-185,Asia-Pacific,Hardware,RAM Kit 32GB,130,4,0.1,468.0,168.08
+ORD-1892,2024-01-27,CUST-132,Europe,Office Supplies,Mechanical Keyboard,120,2,0.05,228.0,85.54
+ORD-1210,2024-01-28,CUST-144,North America,Office Supplies,Mechanical Keyboard,120,5,0.2,480.0,118.83
+ORD-1347,2024-01-28,CUST-190,Asia-Pacific,Hardware,RAM Kit 32GB,130,3,0.15,331.5,144.26
+ORD-1519,2024-01-28,CUST-178,Europe,Hardware,NVMe SSD 1TB,110,5,0.2,440.0,182.05
+ORD-1679,2024-01-28,CUST-184,Europe,Hardware,Power Supply 850W,140,8,0.15,952.0,351.34
+ORD-1685,2024-01-28,CUST-233,Latin America,Electronics,Wireless Headphone,150,9,0.05,1282.5,194.86
+ORD-1869,2024-01-28,CUST-153,North America,Electronics,Laptop Pro,1200,8,0.1,8640.0,2083.28
+ORD-2035,2024-01-28,CUST-241,North America,Software & Cloud,CRM Standard,450,1,0.0,450.0,80.82
+ORD-1659,2024-01-29,CUST-216,North America,Electronics,Smart Watch,250,5,0.05,1187.5,407.53
+ORD-1287,2024-01-30,CUST-205,Europe,Software & Cloud,Security Vault,750,9,0.2,5400.0,1069.32
+ORD-1371,2024-01-30,CUST-134,Asia-Pacific,Office Supplies,Paper Shredder,90,5,0.05,427.5,112.19
+ORD-1389,2024-01-30,CUST-100,North America,Software & Cloud,AI Analytics Suite,1800,1,0.15,1530.0,612.37
+ORD-1448,2024-01-30,CUST-225,North America,Office Supplies,Paper Shredder,90,9,0.1,729.0,168.71
+ORD-1655,2024-01-30,CUST-135,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,2,0.15,204.0,86.65
+ORD-1396,2024-01-31,CUST-213,North America,Electronics,Wireless Headphone,150,4,0.15,510.0,173.97
+ORD-1991,2024-01-31,CUST-115,Europe,Office Supplies,Ergonomic Chair,350,2,0.15,595.0,127.06
+ORD-2084,2024-01-31,CUST-138,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,9,0.05,2565.0,791.08
+ORD-2105,2024-01-31,CUST-113,Europe,Hardware,RAM Kit 32GB,130,9,0.1,1053.0,377.78
+ORD-1324,2024-02-01,CUST-218,North America,Electronics,Ultra Monitor,450,7,0.0,3150.0,867.28
+ORD-1742,2024-02-01,CUST-229,North America,Software & Cloud,AI Analytics Suite,1800,1,0.1,1620.0,632.26
+ORD-1877,2024-02-01,CUST-236,Europe,Office Supplies,Mechanical Keyboard,120,1,0.2,96.0,39.59
+ORD-1658,2024-02-02,CUST-248,North America,Office Supplies,Paper Shredder,90,6,0.1,486.0,122.74
+ORD-2191,2024-02-02,CUST-127,Latin America,Hardware,Graphics Card RTX,850,3,0.1,2295.0,844.88
+ORD-1142,2024-02-03,CUST-216,North America,Electronics,Tablet Air,600,9,0.05,5130.0,1877.89
+ORD-1690,2024-02-03,CUST-195,Asia-Pacific,Electronics,Tablet Air,600,6,0.2,2880.0,800.5
+ORD-1781,2024-02-03,CUST-104,North America,Electronics,Laptop Pro,1200,8,0.05,9120.0,3865.42
+ORD-1013,2024-02-04,CUST-241,Europe,Electronics,Smart Watch,250,5,0.1,1125.0,425.51
+ORD-1865,2024-02-04,CUST-243,Europe,Hardware,RAM Kit 32GB,130,4,0.1,468.0,160.89
+ORD-1486,2024-02-06,CUST-238,Europe,Software & Cloud,Security Vault,750,2,0.05,1425.0,427.53
+ORD-2085,2024-02-06,CUST-151,Asia-Pacific,Software & Cloud,AI Analytics Suite,1800,2,0.1,3240.0,671.92
+ORD-1294,2024-02-07,CUST-218,Asia-Pacific,Office Supplies,LED Desk Lamp,45,9,0.2,324.0,57.64
+ORD-1613,2024-02-07,CUST-231,North America,Office Supplies,LED Desk Lamp,45,9,0.15,344.25,121.15
+ORD-1686,2024-02-07,CUST-198,North America,Office Supplies,Paper Shredder,90,2,0.1,162.0,32.78
+ORD-1822,2024-02-07,CUST-232,Europe,Software & Cloud,SaaS Enterprise License,2500,9,0.1,20250.0,8858.19
+ORD-2100,2024-02-07,CUST-201,North America,Office Supplies,Mechanical Keyboard,120,8,0.05,912.0,376.2
+ORD-1113,2024-02-08,CUST-114,Asia-Pacific,Software & Cloud,AI Analytics Suite,1800,7,0.1,11340.0,2840.35
+ORD-1176,2024-02-08,CUST-111,North America,Software & Cloud,Cloud Storage Pro,300,4,0.05,1140.0,455.59
+ORD-1184,2024-02-08,CUST-183,Europe,Software & Cloud,CRM Standard,450,4,0.05,1710.0,652.96
+ORD-1283,2024-02-08,CUST-248,Latin America,Electronics,Ultra Monitor,450,9,0.05,3847.5,1311.31
+ORD-1691,2024-02-08,CUST-187,Europe,Software & Cloud,Cloud Storage Pro,300,9,0.15,2295.0,742.88
+ORD-1846,2024-02-08,CUST-196,Latin America,Hardware,Power Supply 850W,140,8,0.2,896.0,384.56
+ORD-2008,2024-02-08,CUST-240,Europe,Software & Cloud,AI Analytics Suite,1800,4,0.15,6120.0,1926.56
+ORD-1098,2024-02-11,CUST-158,Latin America,Electronics,Tablet Air,600,6,0.15,3060.0,1051.95
+ORD-2018,2024-02-11,CUST-221,North America,Office Supplies,Standing Desk,550,3,0.0,1650.0,423.49
+ORD-1261,2024-02-12,CUST-104,Asia-Pacific,Office Supplies,Standing Desk,550,7,0.1,3465.0,921.48
+ORD-1416,2024-02-12,CUST-174,Asia-Pacific,Electronics,Ultra Monitor,450,7,0.15,2677.5,1082.03
+ORD-2116,2024-02-12,CUST-145,Europe,Electronics,Wireless Headphone,150,4,0.0,600.0,95.62
+ORD-1214,2024-02-13,CUST-247,North America,Hardware,RAM Kit 32GB,130,6,0.15,663.0,206.84
+ORD-1588,2024-02-13,CUST-247,Europe,Software & Cloud,AI Analytics Suite,1800,3,0.0,5400.0,1860.14
+ORD-1801,2024-02-13,CUST-115,Europe,Software & Cloud,Cloud Storage Pro,300,7,0.2,1680.0,283.35
+ORD-1828,2024-02-13,CUST-102,North America,Software & Cloud,Cloud Storage Pro,300,5,0.05,1425.0,346.13
+ORD-1908,2024-02-13,CUST-230,Asia-Pacific,Hardware,RAM Kit 32GB,130,1,0.1,117.0,20.62
+ORD-1943,2024-02-13,CUST-238,Europe,Hardware,NVMe SSD 1TB,110,8,0.15,748.0,112.48
+ORD-1175,2024-02-14,CUST-206,North America,Office Supplies,Ergonomic Chair,350,3,0.05,997.5,188.19
+ORD-1495,2024-02-14,CUST-117,North America,Electronics,Tablet Air,600,2,0.2,960.0,354.93
+ORD-1736,2024-02-14,CUST-196,North America,Electronics,Wireless Headphone,150,7,0.15,892.5,393.49
+ORD-2049,2024-02-14,CUST-128,Latin America,Electronics,Smart Watch,250,2,0.1,450.0,129.68
+ORD-1190,2024-02-15,CUST-183,Europe,Software & Cloud,SaaS Enterprise License,2500,7,0.0,17500.0,5813.36
+ORD-1864,2024-02-15,CUST-176,North America,Software & Cloud,AI Analytics Suite,1800,8,0.15,12240.0,2012.55
+ORD-1896,2024-02-15,CUST-171,Europe,Office Supplies,Standing Desk,550,8,0.05,4180.0,1362.14
+ORD-1979,2024-02-15,CUST-136,Europe,Office Supplies,Mechanical Keyboard,120,4,0.1,432.0,90.49
+ORD-1071,2024-02-16,CUST-102,Latin America,Electronics,Laptop Pro,1200,1,0.2,960.0,344.71
+ORD-1449,2024-02-16,CUST-115,North America,Office Supplies,LED Desk Lamp,45,7,0.2,252.0,78.81
+ORD-1619,2024-02-16,CUST-103,North America,Hardware,Motherboard Z790,280,7,0.05,1862.0,615.84
+ORD-1712,2024-02-16,CUST-215,Europe,Electronics,Laptop Pro,1200,2,0.2,1920.0,368.21
+ORD-1474,2024-02-17,CUST-124,North America,Electronics,Smart Watch,250,8,0.15,1700.0,612.58
+ORD-1709,2024-02-17,CUST-211,Europe,Hardware,Power Supply 850W,140,4,0.1,504.0,202.43
+ORD-1914,2024-02-17,CUST-104,Europe,Electronics,Laptop Pro,1200,3,0.1,3240.0,989.85
+ORD-2003,2024-02-17,CUST-186,North America,Software & Cloud,Security Vault,750,1,0.0,750.0,236.41
+ORD-2111,2024-02-17,CUST-100,Latin America,Office Supplies,Standing Desk,550,1,0.2,440.0,78.48
+ORD-1752,2024-02-18,CUST-217,Europe,Software & Cloud,Cloud Storage Pro,300,3,0.15,765.0,296.35
+ORD-1935,2024-02-19,CUST-207,Europe,Office Supplies,Standing Desk,550,3,0.0,1650.0,715.86
+ORD-2131,2024-02-19,CUST-158,Europe,Electronics,Ultra Monitor,450,7,0.2,2520.0,820.32
+ORD-1375,2024-02-20,CUST-238,Europe,Office Supplies,Ergonomic Chair,350,5,0.15,1487.5,328.01
+ORD-1645,2024-02-20,CUST-224,Asia-Pacific,Electronics,Tablet Air,600,5,0.0,3000.0,1327.66
+ORD-1898,2024-02-20,CUST-237,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,9,0.2,2160.0,621.24
+ORD-2135,2024-02-20,CUST-122,North America,Electronics,Ultra Monitor,450,1,0.15,382.5,92.91
+ORD-1232,2024-02-21,CUST-245,North America,Office Supplies,Mechanical Keyboard,120,3,0.05,342.0,113.92
+ORD-1422,2024-02-21,CUST-125,North America,Office Supplies,LED Desk Lamp,45,9,0.0,405.0,144.58
+ORD-1491,2024-02-21,CUST-205,North America,Hardware,NVMe SSD 1TB,110,7,0.2,616.0,152.78
+ORD-1972,2024-02-21,CUST-225,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,1,0.05,2375.0,671.85
+ORD-1062,2024-02-22,CUST-241,Europe,Software & Cloud,SaaS Enterprise License,2500,7,0.2,14000.0,6009.9
+ORD-1397,2024-02-22,CUST-133,North America,Hardware,RAM Kit 32GB,130,7,0.05,864.5,233.79
+ORD-2020,2024-02-22,CUST-204,Europe,Software & Cloud,Security Vault,750,8,0.2,4800.0,861.91
+ORD-1636,2024-02-23,CUST-157,Europe,Office Supplies,Mechanical Keyboard,120,4,0.1,432.0,170.1
+ORD-2038,2024-02-23,CUST-133,Latin America,Office Supplies,Ergonomic Chair,350,3,0.0,1050.0,412.47
+ORD-2128,2024-02-23,CUST-130,North America,Hardware,Graphics Card RTX,850,7,0.05,5652.5,2013.6
+ORD-1123,2024-02-24,CUST-156,North America,Software & Cloud,CRM Standard,450,9,0.2,3240.0,811.81
+ORD-1887,2024-02-24,CUST-152,North America,Software & Cloud,CRM Standard,450,3,0.05,1282.5,436.66
+ORD-1092,2024-02-25,CUST-107,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,1,0.05,114.0,46.8
+ORD-1563,2024-02-25,CUST-153,North America,Office Supplies,Standing Desk,550,6,0.2,2640.0,989.55
+ORD-1964,2024-02-25,CUST-201,Asia-Pacific,Office Supplies,LED Desk Lamp,45,8,0.1,324.0,111.32
+ORD-1315,2024-02-26,CUST-185,North America,Office Supplies,Standing Desk,550,2,0.1,990.0,341.84
+ORD-1388,2024-02-26,CUST-212,North America,Office Supplies,Mechanical Keyboard,120,3,0.05,342.0,120.74
+ORD-1464,2024-02-26,CUST-149,Europe,Hardware,Motherboard Z790,280,6,0.1,1512.0,388.22
+ORD-1730,2024-02-26,CUST-151,Asia-Pacific,Hardware,Graphics Card RTX,850,3,0.05,2422.5,501.55
+ORD-2068,2024-02-26,CUST-119,North America,Hardware,Motherboard Z790,280,3,0.2,672.0,121.22
+ORD-2088,2024-02-26,CUST-169,Europe,Office Supplies,Standing Desk,550,2,0.05,1045.0,301.23
+ORD-1183,2024-02-27,CUST-198,Europe,Software & Cloud,Cloud Storage Pro,300,2,0.05,570.0,256.01
+ORD-1468,2024-02-27,CUST-170,North America,Electronics,Ultra Monitor,450,9,0.2,3240.0,670.5
+ORD-1485,2024-02-27,CUST-213,Europe,Software & Cloud,AI Analytics Suite,1800,6,0.05,10260.0,3076.25
+ORD-1586,2024-02-27,CUST-119,North America,Electronics,Laptop Pro,1200,2,0.05,2280.0,982.98
+ORD-1950,2024-02-27,CUST-124,Asia-Pacific,Electronics,Smart Watch,250,2,0.0,500.0,100.02
+ORD-1174,2024-02-28,CUST-106,Asia-Pacific,Hardware,NVMe SSD 1TB,110,9,0.2,792.0,280.4
+ORD-1579,2024-02-28,CUST-110,Europe,Hardware,Graphics Card RTX,850,1,0.15,722.5,242.1
+ORD-1587,2024-02-28,CUST-113,Asia-Pacific,Hardware,Graphics Card RTX,850,2,0.15,1445.0,460.46
+ORD-1720,2024-02-28,CUST-161,North America,Hardware,NVMe SSD 1TB,110,9,0.15,841.5,357.93
+ORD-1697,2024-02-29,CUST-188,North America,Software & Cloud,CRM Standard,450,7,0.2,2520.0,607.36
+ORD-1089,2024-03-01,CUST-191,North America,Office Supplies,Mechanical Keyboard,120,3,0.2,288.0,57.8
+ORD-1732,2024-03-01,CUST-116,Asia-Pacific,Office Supplies,Standing Desk,550,1,0.15,467.5,201.23
+ORD-1993,2024-03-01,CUST-206,Europe,Office Supplies,Ergonomic Chair,350,7,0.1,2205.0,773.5
+ORD-2097,2024-03-01,CUST-166,Europe,Software & Cloud,CRM Standard,450,4,0.05,1710.0,501.71
+ORD-1884,2024-03-02,CUST-143,North America,Software & Cloud,Security Vault,750,9,0.1,6075.0,1214.77
+ORD-1192,2024-03-04,CUST-163,North America,Electronics,Laptop Pro,1200,8,0.2,7680.0,1318.92
+ORD-1379,2024-03-04,CUST-146,Asia-Pacific,Software & Cloud,CRM Standard,450,2,0.1,810.0,207.39
+ORD-1054,2024-03-05,CUST-134,North America,Electronics,Wireless Headphone,150,2,0.2,240.0,42.8
+ORD-1161,2024-03-05,CUST-167,Asia-Pacific,Office Supplies,Ergonomic Chair,350,3,0.2,840.0,215.36
+ORD-1473,2024-03-05,CUST-158,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,9,0.05,2565.0,855.88
+ORD-1590,2024-03-05,CUST-211,North America,Software & Cloud,Security Vault,750,6,0.05,4275.0,1330.96
+ORD-1863,2024-03-05,CUST-204,North America,Electronics,Laptop Pro,1200,1,0.2,960.0,153.63
+ORD-2082,2024-03-05,CUST-137,North America,Electronics,Ultra Monitor,450,5,0.2,1800.0,293.58
+ORD-2118,2024-03-05,CUST-188,Europe,Hardware,NVMe SSD 1TB,110,6,0.15,561.0,173.7
+ORD-1290,2024-03-06,CUST-189,Asia-Pacific,Electronics,Tablet Air,600,9,0.15,4590.0,1410.27
+ORD-1674,2024-03-06,CUST-213,Europe,Office Supplies,Paper Shredder,90,2,0.15,153.0,26.29
+ORD-1333,2024-03-07,CUST-216,Europe,Hardware,Graphics Card RTX,850,9,0.2,6120.0,978.94
+ORD-1695,2024-03-07,CUST-141,Asia-Pacific,Hardware,NVMe SSD 1TB,110,5,0.1,495.0,107.02
+ORD-1940,2024-03-07,CUST-180,Europe,Hardware,RAM Kit 32GB,130,2,0.05,247.0,90.63
+ORD-1971,2024-03-07,CUST-185,North America,Office Supplies,Paper Shredder,90,7,0.2,504.0,201.58
+ORD-1427,2024-03-08,CUST-175,North America,Software & Cloud,Security Vault,750,8,0.1,5400.0,2399.45
+ORD-1756,2024-03-08,CUST-239,Latin America,Electronics,Wireless Headphone,150,2,0.15,255.0,74.6
+ORD-1303,2024-03-09,CUST-104,Asia-Pacific,Electronics,Tablet Air,600,4,0.0,2400.0,673.33
+ORD-1445,2024-03-09,CUST-153,North America,Software & Cloud,CRM Standard,450,9,0.0,4050.0,1324.87
+ORD-1480,2024-03-09,CUST-161,Europe,Software & Cloud,Cloud Storage Pro,300,8,0.1,2160.0,621.39
+ORD-1490,2024-03-09,CUST-120,Asia-Pacific,Electronics,Ultra Monitor,450,8,0.05,3420.0,1062.48
+ORD-1576,2024-03-10,CUST-248,Asia-Pacific,Electronics,Smart Watch,250,7,0.15,1487.5,482.58
+ORD-1657,2024-03-10,CUST-200,North America,Hardware,Power Supply 850W,140,5,0.05,665.0,215.59
+ORD-1699,2024-03-10,CUST-183,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,3,0.05,855.0,181.24
+ORD-2083,2024-03-10,CUST-153,North America,Hardware,RAM Kit 32GB,130,5,0.15,552.5,247.99
+ORD-2109,2024-03-10,CUST-213,Europe,Electronics,Tablet Air,600,6,0.2,2880.0,597.45
+ORD-2186,2024-03-10,CUST-156,Latin America,Office Supplies,LED Desk Lamp,45,8,0.2,288.0,77.03
+ORD-1512,2024-03-11,CUST-243,Asia-Pacific,Hardware,NVMe SSD 1TB,110,6,0.2,528.0,104.33
+ORD-1288,2024-03-12,CUST-203,North America,Electronics,Ultra Monitor,450,5,0.1,2025.0,906.27
+ORD-1498,2024-03-12,CUST-118,Europe,Software & Cloud,CRM Standard,450,9,0.0,4050.0,1128.67
+ORD-1606,2024-03-12,CUST-135,Asia-Pacific,Software & Cloud,Security Vault,750,1,0.2,600.0,147.16
+ORD-2152,2024-03-12,CUST-101,Asia-Pacific,Office Supplies,Paper Shredder,90,9,0.0,810.0,168.13
+ORD-1478,2024-03-13,CUST-220,Europe,Software & Cloud,Cloud Storage Pro,300,3,0.15,765.0,255.5
+ORD-1858,2024-03-13,CUST-148,Europe,Electronics,Smart Watch,250,8,0.2,1600.0,252.77
+ORD-2094,2024-03-13,CUST-191,North America,Hardware,Power Supply 850W,140,5,0.1,630.0,181.11
+ORD-1432,2024-03-14,CUST-165,Europe,Hardware,Motherboard Z790,280,5,0.05,1330.0,327.85
+ORD-1518,2024-03-14,CUST-183,North America,Software & Cloud,CRM Standard,450,4,0.15,1530.0,584.61
+ORD-1775,2024-03-14,CUST-125,Europe,Office Supplies,Ergonomic Chair,350,4,0.05,1330.0,224.22
+ORD-1829,2024-03-14,CUST-103,North America,Software & Cloud,AI Analytics Suite,1800,1,0.2,1440.0,451.35
+ORD-2108,2024-03-14,CUST-240,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,4,0.05,9500.0,3478.06
+ORD-1056,2024-03-15,CUST-237,Europe,Electronics,Ultra Monitor,450,9,0.2,3240.0,1426.49
+ORD-2181,2024-03-15,CUST-236,Asia-Pacific,Electronics,Smart Watch,250,8,0.15,1700.0,744.39
+ORD-1570,2024-03-16,CUST-217,Europe,Software & Cloud,CRM Standard,450,9,0.05,3847.5,795.73
+ORD-1795,2024-03-16,CUST-195,North America,Hardware,Motherboard Z790,280,2,0.05,532.0,138.75
+ORD-1819,2024-03-16,CUST-109,North America,Hardware,NVMe SSD 1TB,110,5,0.0,550.0,206.35
+ORD-1233,2024-03-17,CUST-207,North America,Hardware,Graphics Card RTX,850,9,0.1,6885.0,1287.27
+ORD-2002,2024-03-17,CUST-162,Europe,Software & Cloud,SaaS Enterprise License,2500,8,0.1,18000.0,4773.7
+ORD-2057,2024-03-17,CUST-157,Europe,Electronics,Wireless Headphone,150,5,0.05,712.5,213.31
+ORD-2143,2024-03-17,CUST-186,Asia-Pacific,Software & Cloud,AI Analytics Suite,1800,2,0.15,3060.0,585.91
+ORD-1091,2024-03-18,CUST-220,Europe,Office Supplies,Paper Shredder,90,9,0.05,769.5,299.97
+ORD-1240,2024-03-18,CUST-134,Europe,Electronics,Tablet Air,600,9,0.0,5400.0,2410.21
+ORD-1806,2024-03-18,CUST-157,North America,Electronics,Tablet Air,600,1,0.0,600.0,98.47
+ORD-1267,2024-03-19,CUST-232,North America,Electronics,Wireless Headphone,150,7,0.05,997.5,206.39
+ORD-1466,2024-03-19,CUST-128,North America,Software & Cloud,AI Analytics Suite,1800,6,0.2,8640.0,1558.76
+ORD-1702,2024-03-20,CUST-109,Asia-Pacific,Hardware,Power Supply 850W,140,1,0.2,112.0,45.65
+ORD-2129,2024-03-20,CUST-146,Europe,Software & Cloud,SaaS Enterprise License,2500,7,0.2,14000.0,2869.31
+ORD-2160,2024-03-20,CUST-235,North America,Office Supplies,Ergonomic Chair,350,2,0.0,700.0,312.95
+ORD-1172,2024-03-21,CUST-139,Europe,Office Supplies,Paper Shredder,90,3,0.05,256.5,82.44
+ORD-1313,2024-03-21,CUST-185,Europe,Hardware,Motherboard Z790,280,2,0.15,476.0,174.62
+ORD-1431,2024-03-21,CUST-185,Europe,Software & Cloud,Security Vault,750,8,0.05,5700.0,2174.48
+ORD-1768,2024-03-21,CUST-226,North America,Office Supplies,Standing Desk,550,6,0.2,2640.0,924.02
+ORD-1255,2024-03-22,CUST-233,North America,Electronics,Smart Watch,250,8,0.05,1900.0,779.79
+ORD-1862,2024-03-22,CUST-123,North America,Software & Cloud,Cloud Storage Pro,300,6,0.2,1440.0,430.8
+ORD-1949,2024-03-23,CUST-209,North America,Hardware,RAM Kit 32GB,130,8,0.1,936.0,250.11
+ORD-1127,2024-03-24,CUST-203,Europe,Electronics,Laptop Pro,1200,4,0.15,4080.0,1266.93
+ORD-1186,2024-03-24,CUST-100,North America,Office Supplies,Mechanical Keyboard,120,9,0.2,864.0,384.65
+ORD-1441,2024-03-24,CUST-140,North America,Software & Cloud,Cloud Storage Pro,300,4,0.2,960.0,314.25
+ORD-1471,2024-03-24,CUST-233,North America,Software & Cloud,Cloud Storage Pro,300,5,0.05,1425.0,514.62
+ORD-1835,2024-03-24,CUST-111,Europe,Software & Cloud,CRM Standard,450,9,0.0,4050.0,1412.22
+ORD-1849,2024-03-24,CUST-168,Asia-Pacific,Software & Cloud,AI Analytics Suite,1800,2,0.05,3420.0,578.91
+ORD-2060,2024-03-24,CUST-148,Europe,Hardware,Power Supply 850W,140,5,0.0,700.0,252.55
+ORD-1321,2024-03-25,CUST-111,North America,Hardware,NVMe SSD 1TB,110,8,0.05,836.0,165.02
+ORD-1680,2024-03-25,CUST-206,Europe,Electronics,Laptop Pro,1200,1,0.1,1080.0,378.83
+ORD-2126,2024-03-25,CUST-225,Europe,Electronics,Laptop Pro,1200,2,0.05,2280.0,775.16
+ORD-1049,2024-03-26,CUST-243,North America,Electronics,Tablet Air,600,5,0.0,3000.0,730.27
+ORD-1504,2024-03-26,CUST-182,Asia-Pacific,Hardware,NVMe SSD 1TB,110,3,0.15,280.5,70.15
+ORD-1937,2024-03-26,CUST-240,Asia-Pacific,Electronics,Ultra Monitor,450,4,0.15,1530.0,236.78
+ORD-2001,2024-03-26,CUST-132,North America,Hardware,Graphics Card RTX,850,2,0.0,1700.0,495.06
+ORD-1208,2024-03-27,CUST-140,North America,Office Supplies,LED Desk Lamp,45,2,0.2,72.0,29.25
+ORD-1274,2024-03-27,CUST-228,North America,Electronics,Tablet Air,600,8,0.0,4800.0,1794.54
+ORD-1631,2024-03-27,CUST-153,Latin America,Office Supplies,Paper Shredder,90,7,0.15,535.5,228.81
+ORD-1721,2024-03-27,CUST-117,Europe,Office Supplies,Standing Desk,550,8,0.0,4400.0,1177.19
+ORD-1758,2024-03-27,CUST-223,Asia-Pacific,Software & Cloud,CRM Standard,450,7,0.0,3150.0,1265.45
+ORD-2154,2024-03-27,CUST-220,North America,Software & Cloud,Cloud Storage Pro,300,8,0.15,2040.0,829.62
+ORD-1784,2024-03-28,CUST-173,Asia-Pacific,Hardware,RAM Kit 32GB,130,9,0.2,936.0,291.29
+ORD-1830,2024-03-28,CUST-236,North America,Electronics,Ultra Monitor,450,6,0.1,2430.0,664.22
+ORD-1428,2024-03-29,CUST-103,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,7,0.05,798.0,354.59
+ORD-1546,2024-03-29,CUST-242,North America,Hardware,Graphics Card RTX,850,3,0.15,2167.5,830.4
+ORD-2098,2024-03-29,CUST-245,Europe,Electronics,Wireless Headphone,150,8,0.1,1080.0,198.63
+ORD-1055,2024-03-30,CUST-157,Europe,Hardware,Motherboard Z790,280,2,0.1,504.0,118.22
+ORD-1073,2024-03-30,CUST-140,North America,Hardware,Graphics Card RTX,850,2,0.15,1445.0,250.45
+ORD-1304,2024-03-30,CUST-199,Asia-Pacific,Hardware,Graphics Card RTX,850,3,0.0,2550.0,979.36
+ORD-1533,2024-03-30,CUST-165,Latin America,Office Supplies,Paper Shredder,90,2,0.2,144.0,57.62
+ORD-1433,2024-03-31,CUST-240,North America,Office Supplies,Paper Shredder,90,9,0.2,648.0,190.69
+ORD-1436,2024-03-31,CUST-190,Europe,Office Supplies,Ergonomic Chair,350,2,0.2,560.0,126.17
+ORD-2177,2024-03-31,CUST-153,Asia-Pacific,Software & Cloud,Security Vault,750,7,0.15,4462.5,1124.84
+ORD-1195,2024-04-01,CUST-101,Europe,Hardware,NVMe SSD 1TB,110,8,0.05,836.0,207.28
+ORD-1376,2024-04-01,CUST-238,North America,Software & Cloud,CRM Standard,450,3,0.2,1080.0,364.9
+ORD-1978,2024-04-01,CUST-157,North America,Office Supplies,Mechanical Keyboard,120,4,0.2,384.0,101.22
+ORD-1997,2024-04-02,CUST-101,Europe,Hardware,Motherboard Z790,280,5,0.0,1400.0,345.88
+ORD-1102,2024-04-03,CUST-235,Europe,Hardware,Power Supply 850W,140,9,0.05,1197.0,379.48
+ORD-2076,2024-04-03,CUST-188,Latin America,Office Supplies,Ergonomic Chair,350,2,0.0,700.0,189.84
+ORD-2167,2024-04-03,CUST-176,North America,Office Supplies,Paper Shredder,90,7,0.1,567.0,89.11
+ORD-1081,2024-04-04,CUST-111,Asia-Pacific,Hardware,Graphics Card RTX,850,2,0.1,1530.0,468.26
+ORD-1193,2024-04-04,CUST-235,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,9,0.0,1080.0,470.66
+ORD-1258,2024-04-04,CUST-233,North America,Office Supplies,Ergonomic Chair,350,6,0.2,1680.0,412.04
+ORD-1710,2024-04-04,CUST-149,North America,Electronics,Ultra Monitor,450,8,0.15,3060.0,562.36
+ORD-1047,2024-04-05,CUST-115,Europe,Office Supplies,Ergonomic Chair,350,8,0.2,2240.0,524.12
+ORD-1159,2024-04-05,CUST-161,Europe,Software & Cloud,AI Analytics Suite,1800,7,0.15,10710.0,1775.77
+ORD-1399,2024-04-05,CUST-233,North America,Office Supplies,Ergonomic Chair,350,7,0.05,2327.5,675.19
+ORD-1319,2024-04-06,CUST-222,North America,Office Supplies,LED Desk Lamp,45,3,0.15,114.75,32.76
+ORD-1808,2024-04-06,CUST-109,Europe,Office Supplies,Paper Shredder,90,1,0.15,76.5,22.42
+ORD-1893,2024-04-06,CUST-216,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,8,0.2,1920.0,541.54
+ORD-2146,2024-04-06,CUST-220,North America,Electronics,Laptop Pro,1200,8,0.15,8160.0,2463.55
+ORD-2158,2024-04-06,CUST-126,Europe,Hardware,Power Supply 850W,140,5,0.0,700.0,246.96
+ORD-1314,2024-04-07,CUST-101,Europe,Office Supplies,Standing Desk,550,1,0.05,522.5,104.36
+ORD-1632,2024-04-07,CUST-142,North America,Electronics,Tablet Air,600,4,0.1,2160.0,517.61
+ORD-1882,2024-04-07,CUST-236,North America,Hardware,Motherboard Z790,280,6,0.2,1344.0,595.7
+ORD-2168,2024-04-07,CUST-199,Europe,Software & Cloud,CRM Standard,450,6,0.0,2700.0,821.8
+ORD-1678,2024-04-08,CUST-153,North America,Office Supplies,Mechanical Keyboard,120,8,0.2,768.0,257.73
+ORD-1875,2024-04-08,CUST-140,Asia-Pacific,Office Supplies,Standing Desk,550,3,0.15,1402.5,326.09
+ORD-1051,2024-04-09,CUST-168,Europe,Office Supplies,LED Desk Lamp,45,3,0.05,128.25,38.52
+ORD-1401,2024-04-09,CUST-155,Latin America,Office Supplies,Mechanical Keyboard,120,3,0.0,360.0,94.75
+ORD-1718,2024-04-09,CUST-209,Asia-Pacific,Office Supplies,Standing Desk,550,7,0.2,3080.0,573.22
+ORD-1815,2024-04-09,CUST-180,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,5,0.05,11875.0,2805.51
+ORD-1878,2024-04-09,CUST-242,North America,Office Supplies,Ergonomic Chair,350,9,0.2,2520.0,856.68
+ORD-1932,2024-04-09,CUST-213,North America,Office Supplies,Mechanical Keyboard,120,5,0.2,480.0,180.91
+ORD-2137,2024-04-09,CUST-249,Asia-Pacific,Electronics,Tablet Air,600,4,0.0,2400.0,456.63
+ORD-2166,2024-04-09,CUST-241,Asia-Pacific,Electronics,Laptop Pro,1200,8,0.05,9120.0,3793.1
+ORD-1021,2024-04-10,CUST-153,North America,Electronics,Laptop Pro,1200,1,0.05,1140.0,342.92
+ORD-1043,2024-04-10,CUST-215,Europe,Electronics,Tablet Air,600,5,0.15,2550.0,1026.65
+ORD-1405,2024-04-10,CUST-245,Europe,Office Supplies,LED Desk Lamp,45,9,0.1,364.5,104.72
+ORD-1627,2024-04-10,CUST-177,Asia-Pacific,Hardware,RAM Kit 32GB,130,7,0.2,728.0,124.36
+ORD-1224,2024-04-11,CUST-181,Asia-Pacific,Office Supplies,LED Desk Lamp,45,6,0.1,243.0,95.34
+ORD-2056,2024-04-11,CUST-187,Latin America,Office Supplies,Paper Shredder,90,7,0.15,535.5,105.86
+ORD-1000,2024-04-12,CUST-221,North America,Hardware,Motherboard Z790,280,8,0.2,1792.0,589.67
+ORD-1156,2024-04-12,CUST-207,Europe,Electronics,Smart Watch,250,2,0.1,450.0,161.5
+ORD-1502,2024-04-12,CUST-230,Europe,Electronics,Laptop Pro,1200,1,0.0,1200.0,488.63
+ORD-1581,2024-04-12,CUST-151,North America,Software & Cloud,Cloud Storage Pro,300,5,0.05,1425.0,235.27
+ORD-1593,2024-04-12,CUST-245,North America,Office Supplies,Paper Shredder,90,9,0.1,729.0,129.33
+ORD-1867,2024-04-12,CUST-106,Asia-Pacific,Electronics,Wireless Headphone,150,2,0.1,270.0,77.58
+ORD-1901,2024-04-12,CUST-193,Europe,Electronics,Ultra Monitor,450,5,0.1,2025.0,452.86
+ORD-1946,2024-04-12,CUST-226,Europe,Software & Cloud,Cloud Storage Pro,300,9,0.2,2160.0,841.4
+ORD-1976,2024-04-12,CUST-161,Asia-Pacific,Office Supplies,Standing Desk,550,4,0.1,1980.0,496.79
+ORD-1030,2024-04-13,CUST-245,North America,Hardware,Power Supply 850W,140,9,0.1,1134.0,501.34
+ORD-1119,2024-04-13,CUST-159,Europe,Office Supplies,Standing Desk,550,9,0.0,4950.0,769.39
+ORD-1707,2024-04-13,CUST-186,North America,Software & Cloud,AI Analytics Suite,1800,1,0.1,1620.0,348.81
+ORD-1438,2024-04-14,CUST-167,Europe,Electronics,Wireless Headphone,150,1,0.0,150.0,29.17
+ORD-1953,2024-04-14,CUST-206,North America,Office Supplies,Mechanical Keyboard,120,2,0.15,204.0,90.66
+ORD-1724,2024-04-15,CUST-151,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,1,0.15,255.0,114.15
+ORD-2032,2024-04-15,CUST-231,North America,Software & Cloud,Cloud Storage Pro,300,1,0.2,240.0,72.23
+ORD-1749,2024-04-16,CUST-125,Europe,Hardware,NVMe SSD 1TB,110,5,0.1,495.0,87.19
+ORD-1871,2024-04-16,CUST-167,Latin America,Electronics,Ultra Monitor,450,5,0.2,1800.0,564.29
+ORD-2130,2024-04-16,CUST-206,North America,Hardware,Power Supply 850W,140,1,0.1,126.0,19.59
+ORD-1783,2024-04-17,CUST-234,Latin America,Hardware,Graphics Card RTX,850,5,0.15,3612.5,628.27
+ORD-1951,2024-04-17,CUST-167,Europe,Electronics,Smart Watch,250,7,0.1,1575.0,244.79
+ORD-1355,2024-04-18,CUST-107,Asia-Pacific,Hardware,Motherboard Z790,280,1,0.2,224.0,81.88
+ORD-1373,2024-04-18,CUST-240,Europe,Hardware,RAM Kit 32GB,130,5,0.2,520.0,152.55
+ORD-1706,2024-04-18,CUST-230,North America,Electronics,Tablet Air,600,8,0.15,4080.0,1376.98
+ORD-1737,2024-04-18,CUST-154,Asia-Pacific,Software & Cloud,AI Analytics Suite,1800,9,0.2,12960.0,2492.98
+ORD-1778,2024-04-19,CUST-238,Asia-Pacific,Office Supplies,Paper Shredder,90,5,0.05,427.5,115.97
+ORD-1147,2024-04-20,CUST-247,North America,Hardware,Motherboard Z790,280,8,0.0,2240.0,517.38
+ORD-1412,2024-04-20,CUST-221,Europe,Office Supplies,Ergonomic Chair,350,6,0.15,1785.0,273.06
+ORD-1666,2024-04-20,CUST-221,North America,Office Supplies,Paper Shredder,90,3,0.1,243.0,64.35
+ORD-1694,2024-04-20,CUST-194,North America,Office Supplies,Paper Shredder,90,4,0.05,342.0,126.81
+ORD-2067,2024-04-20,CUST-232,Asia-Pacific,Electronics,Smart Watch,250,9,0.1,2025.0,541.89
+ORD-2162,2024-04-20,CUST-162,Asia-Pacific,Office Supplies,Paper Shredder,90,9,0.0,810.0,172.82
+ORD-1442,2024-04-21,CUST-114,Asia-Pacific,Software & Cloud,Security Vault,750,9,0.1,6075.0,1037.02
+ORD-1532,2024-04-21,CUST-230,Europe,Electronics,Smart Watch,250,8,0.15,1700.0,745.07
+ORD-2151,2024-04-21,CUST-184,Asia-Pacific,Software & Cloud,CRM Standard,450,3,0.0,1350.0,293.46
+ORD-1299,2024-04-22,CUST-244,Europe,Software & Cloud,Security Vault,750,9,0.15,5737.5,1376.04
+ORD-1369,2024-04-22,CUST-144,North America,Electronics,Wireless Headphone,150,5,0.1,675.0,208.96
+ORD-1463,2024-04-22,CUST-233,North America,Hardware,Motherboard Z790,280,5,0.1,1260.0,344.61
+ORD-1600,2024-04-22,CUST-168,North America,Software & Cloud,SaaS Enterprise License,2500,9,0.05,21375.0,7199.66
+ORD-1716,2024-04-22,CUST-193,Europe,Software & Cloud,SaaS Enterprise License,2500,7,0.05,16625.0,7136.24
+ORD-1722,2024-04-22,CUST-178,Asia-Pacific,Electronics,Smart Watch,250,7,0.2,1400.0,423.74
+ORD-2104,2024-04-22,CUST-109,Europe,Office Supplies,Standing Desk,550,1,0.2,440.0,166.93
+ORD-1437,2024-04-23,CUST-158,North America,Electronics,Wireless Headphone,150,4,0.15,510.0,80.71
+ORD-1743,2024-04-23,CUST-173,Asia-Pacific,Software & Cloud,CRM Standard,450,9,0.15,3442.5,542.55
+ORD-1880,2024-04-23,CUST-119,Asia-Pacific,Office Supplies,Standing Desk,550,6,0.2,2640.0,855.04
+ORD-1890,2024-04-23,CUST-172,North America,Software & Cloud,CRM Standard,450,8,0.05,3420.0,679.74
+ORD-1335,2024-04-24,CUST-219,North America,Electronics,Smart Watch,250,7,0.1,1575.0,288.69
+ORD-2123,2024-04-24,CUST-179,Latin America,Software & Cloud,CRM Standard,450,1,0.1,405.0,121.05
+ORD-1646,2024-04-25,CUST-122,North America,Office Supplies,LED Desk Lamp,45,1,0.05,42.75,11.7
+ORD-1259,2024-04-26,CUST-167,North America,Office Supplies,Paper Shredder,90,2,0.15,153.0,29.15
+ORD-1503,2024-04-26,CUST-155,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,9,0.15,2295.0,824.32
+ORD-1837,2024-04-26,CUST-130,North America,Hardware,Graphics Card RTX,850,4,0.05,3230.0,915.34
+ORD-1116,2024-04-27,CUST-114,Asia-Pacific,Office Supplies,Paper Shredder,90,4,0.2,288.0,54.22
+ORD-1302,2024-04-27,CUST-134,Europe,Electronics,Laptop Pro,1200,3,0.2,2880.0,480.5
+ORD-1410,2024-04-27,CUST-173,North America,Office Supplies,Standing Desk,550,5,0.15,2337.5,420.66
+ORD-1095,2024-04-28,CUST-185,North America,Electronics,Ultra Monitor,450,7,0.0,3150.0,1266.97
+ORD-1419,2024-04-28,CUST-127,Asia-Pacific,Electronics,Ultra Monitor,450,2,0.1,810.0,355.45
+ORD-1566,2024-04-28,CUST-142,North America,Electronics,Smart Watch,250,4,0.15,850.0,216.86
+ORD-1342,2024-04-29,CUST-163,Asia-Pacific,Software & Cloud,CRM Standard,450,1,0.15,382.5,124.25
+ORD-1520,2024-04-29,CUST-203,Europe,Office Supplies,Standing Desk,550,6,0.0,3300.0,1383.94
+ORD-1018,2024-04-30,CUST-236,Europe,Hardware,Motherboard Z790,280,9,0.1,2268.0,344.93
+ORD-1197,2024-05-01,CUST-160,Asia-Pacific,Office Supplies,Standing Desk,550,7,0.15,3272.5,593.53
+ORD-1424,2024-05-01,CUST-145,Europe,Electronics,Tablet Air,600,6,0.05,3420.0,1074.08
+ORD-1589,2024-05-01,CUST-170,North America,Hardware,RAM Kit 32GB,130,8,0.2,832.0,234.17
+ORD-1595,2024-05-01,CUST-131,Europe,Electronics,Ultra Monitor,450,4,0.2,1440.0,611.31
+ORD-1766,2024-05-01,CUST-202,Europe,Electronics,Laptop Pro,1200,3,0.1,3240.0,954.77
+ORD-2147,2024-05-01,CUST-119,North America,Office Supplies,Ergonomic Chair,350,4,0.05,1330.0,423.53
+ORD-1665,2024-05-02,CUST-134,North America,Software & Cloud,AI Analytics Suite,1800,3,0.05,5130.0,1080.83
+ORD-1626,2024-05-03,CUST-128,Asia-Pacific,Hardware,Power Supply 850W,140,2,0.0,280.0,123.09
+ORD-1542,2024-05-04,CUST-181,North America,Electronics,Ultra Monitor,450,5,0.05,2137.5,839.41
+ORD-2026,2024-05-04,CUST-114,Latin America,Office Supplies,Ergonomic Chair,350,5,0.0,1750.0,301.39
+ORD-1087,2024-05-05,CUST-179,North America,Software & Cloud,AI Analytics Suite,1800,3,0.0,5400.0,1555.39
+ORD-1454,2024-05-05,CUST-172,North America,Electronics,Laptop Pro,1200,2,0.1,2160.0,357.63
+ORD-1038,2024-05-06,CUST-236,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,2,0.05,570.0,212.17
+ORD-1046,2024-05-06,CUST-100,Europe,Electronics,Ultra Monitor,450,5,0.0,2250.0,454.47
+ORD-1812,2024-05-06,CUST-208,Asia-Pacific,Electronics,Tablet Air,600,7,0.15,3570.0,874.43
+ORD-1457,2024-05-07,CUST-177,Asia-Pacific,Hardware,Graphics Card RTX,850,1,0.1,765.0,294.26
+ORD-1966,2024-05-07,CUST-176,Europe,Software & Cloud,Cloud Storage Pro,300,8,0.0,2400.0,689.91
+ORD-2110,2024-05-07,CUST-163,North America,Software & Cloud,Cloud Storage Pro,300,5,0.05,1425.0,625.82
+ORD-1026,2024-05-08,CUST-141,North America,Software & Cloud,Security Vault,750,9,0.0,6750.0,1435.87
+ORD-1635,2024-05-08,CUST-153,Europe,Hardware,RAM Kit 32GB,130,7,0.1,819.0,326.71
+ORD-1637,2024-05-08,CUST-230,Asia-Pacific,Electronics,Wireless Headphone,150,4,0.2,480.0,172.03
+ORD-1902,2024-05-08,CUST-229,North America,Software & Cloud,Security Vault,750,2,0.15,1275.0,221.32
+ORD-1215,2024-05-09,CUST-218,North America,Electronics,Tablet Air,600,4,0.05,2280.0,368.91
+ORD-1246,2024-05-09,CUST-129,North America,Software & Cloud,Security Vault,750,2,0.0,1500.0,672.97
+ORD-1885,2024-05-09,CUST-168,Europe,Electronics,Laptop Pro,1200,2,0.05,2280.0,551.23
+ORD-1911,2024-05-09,CUST-120,North America,Hardware,NVMe SSD 1TB,110,3,0.05,313.5,109.66
+ORD-2174,2024-05-10,CUST-202,North America,Software & Cloud,Security Vault,750,3,0.1,2025.0,360.65
+ORD-1797,2024-05-11,CUST-229,Latin America,Electronics,Smart Watch,250,9,0.15,1912.5,576.41
+ORD-1063,2024-05-12,CUST-244,North America,Software & Cloud,CRM Standard,450,2,0.15,765.0,272.65
+ORD-1327,2024-05-12,CUST-233,Asia-Pacific,Software & Cloud,CRM Standard,450,9,0.15,3442.5,1464.65
+ORD-2121,2024-05-14,CUST-211,Europe,Hardware,Power Supply 850W,140,4,0.0,560.0,173.65
+ORD-1349,2024-05-15,CUST-198,North America,Software & Cloud,Security Vault,750,1,0.0,750.0,187.05
+ORD-1973,2024-05-15,CUST-213,Asia-Pacific,Software & Cloud,Security Vault,750,1,0.1,675.0,262.5
+ORD-2054,2024-05-15,CUST-190,North America,Hardware,Power Supply 850W,140,8,0.15,952.0,390.14
+ORD-1155,2024-05-16,CUST-215,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,7,0.2,1680.0,491.0
+ORD-1106,2024-05-17,CUST-162,Europe,Hardware,Graphics Card RTX,850,8,0.05,6460.0,1139.29
+ORD-1987,2024-05-17,CUST-215,North America,Software & Cloud,SaaS Enterprise License,2500,1,0.15,2125.0,601.61
+ORD-2033,2024-05-17,CUST-132,Europe,Software & Cloud,SaaS Enterprise License,2500,2,0.15,4250.0,1736.4
+ORD-1105,2024-05-18,CUST-109,Europe,Software & Cloud,Security Vault,750,3,0.0,2250.0,586.73
+ORD-1439,2024-05-18,CUST-214,North America,Hardware,Power Supply 850W,140,5,0.1,630.0,156.18
+ORD-1163,2024-05-19,CUST-223,Europe,Software & Cloud,Cloud Storage Pro,300,5,0.2,1200.0,273.23
+ORD-1561,2024-05-19,CUST-111,North America,Electronics,Tablet Air,600,9,0.0,5400.0,1116.41
+ORD-1573,2024-05-19,CUST-165,North America,Software & Cloud,Security Vault,750,7,0.0,5250.0,1480.59
+ORD-2073,2024-05-19,CUST-248,North America,Office Supplies,Standing Desk,550,5,0.15,2337.5,537.17
+ORD-1390,2024-05-20,CUST-203,North America,Hardware,Motherboard Z790,280,9,0.0,2520.0,1017.52
+ORD-1612,2024-05-20,CUST-172,North America,Software & Cloud,CRM Standard,450,4,0.15,1530.0,640.62
+ORD-1696,2024-05-20,CUST-229,Europe,Hardware,Motherboard Z790,280,8,0.0,2240.0,846.72
+ORD-1833,2024-05-20,CUST-101,North America,Software & Cloud,SaaS Enterprise License,2500,4,0.0,10000.0,1682.72
+ORD-1970,2024-05-20,CUST-170,Europe,Hardware,Power Supply 850W,140,9,0.1,1134.0,254.01
+ORD-1334,2024-05-21,CUST-176,Asia-Pacific,Hardware,RAM Kit 32GB,130,1,0.0,130.0,50.25
+ORD-1336,2024-05-21,CUST-177,Europe,Hardware,Motherboard Z790,280,8,0.1,2016.0,552.04
+ORD-2058,2024-05-21,CUST-240,Asia-Pacific,Electronics,Ultra Monitor,450,1,0.0,450.0,186.6
+ORD-1041,2024-05-22,CUST-162,Latin America,Hardware,Graphics Card RTX,850,2,0.1,1530.0,443.21
+ORD-1112,2024-05-22,CUST-152,Latin America,Electronics,Laptop Pro,1200,1,0.0,1200.0,320.93
+ORD-1575,2024-05-22,CUST-220,North America,Office Supplies,Standing Desk,550,4,0.0,2200.0,438.51
+ORD-1693,2024-05-22,CUST-119,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,4,0.2,8000.0,2300.44
+ORD-1904,2024-05-22,CUST-163,North America,Hardware,Graphics Card RTX,850,9,0.1,6885.0,1788.96
+ORD-1968,2024-05-22,CUST-122,Latin America,Software & Cloud,SaaS Enterprise License,2500,4,0.05,9500.0,3317.43
+ORD-1024,2024-05-23,CUST-246,Asia-Pacific,Electronics,Laptop Pro,1200,6,0.2,5760.0,2347.24
+ORD-1061,2024-05-23,CUST-222,North America,Electronics,Tablet Air,600,3,0.15,1530.0,380.36
+ORD-1754,2024-05-23,CUST-247,North America,Office Supplies,Paper Shredder,90,7,0.15,535.5,179.8
+ORD-1977,2024-05-23,CUST-220,Europe,Hardware,NVMe SSD 1TB,110,4,0.1,396.0,89.35
+ORD-1066,2024-05-24,CUST-118,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,4,0.15,8500.0,2234.46
+ORD-1074,2024-05-24,CUST-240,Latin America,Electronics,Laptop Pro,1200,5,0.15,5100.0,1687.26
+ORD-1545,2024-05-24,CUST-108,North America,Electronics,Wireless Headphone,150,9,0.05,1282.5,300.84
+ORD-1745,2024-05-24,CUST-161,Asia-Pacific,Hardware,Motherboard Z790,280,9,0.05,2394.0,644.42
+ORD-1802,2024-05-24,CUST-161,Europe,Office Supplies,Paper Shredder,90,3,0.2,216.0,44.89
+ORD-1974,2024-05-24,CUST-199,North America,Hardware,Power Supply 850W,140,8,0.2,896.0,214.84
+ORD-2115,2024-05-24,CUST-247,North America,Hardware,RAM Kit 32GB,130,1,0.0,130.0,21.08
+ORD-1097,2024-05-25,CUST-212,Europe,Software & Cloud,Security Vault,750,6,0.05,4275.0,1356.55
+ORD-1241,2024-05-25,CUST-123,North America,Software & Cloud,Cloud Storage Pro,300,6,0.2,1440.0,526.0
+ORD-1363,2024-05-25,CUST-221,Europe,Hardware,Power Supply 850W,140,7,0.0,980.0,237.06
+ORD-1889,2024-05-25,CUST-121,North America,Electronics,Ultra Monitor,450,8,0.15,3060.0,474.3
+ORD-2021,2024-05-25,CUST-147,Europe,Hardware,Graphics Card RTX,850,7,0.0,5950.0,1167.32
+ORD-1025,2024-05-26,CUST-138,Latin America,Hardware,RAM Kit 32GB,130,9,0.0,1170.0,315.05
+ORD-2041,2024-05-26,CUST-120,Europe,Software & Cloud,AI Analytics Suite,1800,5,0.1,8100.0,3567.29
+ORD-1165,2024-05-27,CUST-206,North America,Electronics,Tablet Air,600,3,0.2,1440.0,267.99
+ORD-1300,2024-05-27,CUST-236,Latin America,Hardware,Power Supply 850W,140,6,0.15,714.0,189.32
+ORD-1461,2024-05-27,CUST-214,Europe,Software & Cloud,Security Vault,750,7,0.05,4987.5,2051.98
+ORD-1263,2024-05-28,CUST-103,Latin America,Electronics,Ultra Monitor,450,3,0.15,1147.5,384.89
+ORD-1380,2024-05-28,CUST-119,Europe,Office Supplies,Mechanical Keyboard,120,7,0.15,714.0,119.47
+ORD-1409,2024-05-28,CUST-112,North America,Hardware,NVMe SSD 1TB,110,4,0.2,352.0,83.15
+ORD-1574,2024-05-28,CUST-215,North America,Electronics,Ultra Monitor,450,1,0.15,382.5,71.13
+ORD-1042,2024-05-29,CUST-169,North America,Office Supplies,Standing Desk,550,6,0.0,3300.0,531.97
+ORD-1247,2024-05-29,CUST-130,Asia-Pacific,Hardware,Graphics Card RTX,850,4,0.2,2720.0,551.05
+ORD-1493,2024-05-29,CUST-156,North America,Electronics,Tablet Air,600,7,0.0,4200.0,1064.42
+ORD-1252,2024-05-30,CUST-174,Asia-Pacific,Office Supplies,Paper Shredder,90,2,0.0,180.0,31.73
+ORD-1205,2024-05-31,CUST-216,North America,Office Supplies,Ergonomic Chair,350,3,0.0,1050.0,295.66
+ORD-1275,2024-05-31,CUST-209,Latin America,Electronics,Tablet Air,600,4,0.2,1920.0,511.25
+ORD-1905,2024-05-31,CUST-128,North America,Software & Cloud,Cloud Storage Pro,300,6,0.1,1620.0,441.26
+ORD-1958,2024-05-31,CUST-145,North America,Office Supplies,Mechanical Keyboard,120,8,0.1,864.0,293.2
+ORD-2072,2024-05-31,CUST-208,Europe,Hardware,Power Supply 850W,140,9,0.05,1197.0,272.7
+ORD-1415,2024-06-01,CUST-111,North America,Electronics,Wireless Headphone,150,7,0.15,892.5,305.73
+ORD-1688,2024-06-01,CUST-246,Asia-Pacific,Electronics,Laptop Pro,1200,2,0.0,2400.0,587.58
+ORD-1861,2024-06-01,CUST-152,Asia-Pacific,Office Supplies,Paper Shredder,90,3,0.2,216.0,53.29
+ORD-1926,2024-06-01,CUST-202,North America,Office Supplies,Ergonomic Chair,350,5,0.2,1400.0,309.78
+ORD-1995,2024-06-01,CUST-238,North America,Electronics,Laptop Pro,1200,3,0.05,3420.0,1275.94
+ORD-1310,2024-06-02,CUST-168,Europe,Hardware,NVMe SSD 1TB,110,5,0.05,522.5,231.92
+ORD-1470,2024-06-02,CUST-247,Europe,Software & Cloud,AI Analytics Suite,1800,6,0.15,9180.0,2195.74
+ORD-1750,2024-06-02,CUST-230,North America,Office Supplies,LED Desk Lamp,45,1,0.05,42.75,17.05
+ORD-1370,2024-06-03,CUST-224,Europe,Office Supplies,Mechanical Keyboard,120,3,0.05,342.0,83.43
+ORD-1536,2024-06-03,CUST-218,Europe,Electronics,Laptop Pro,1200,3,0.1,3240.0,515.19
+ORD-1672,2024-06-03,CUST-167,North America,Hardware,NVMe SSD 1TB,110,8,0.15,748.0,242.27
+ORD-1843,2024-06-04,CUST-191,Asia-Pacific,Office Supplies,Paper Shredder,90,9,0.1,729.0,308.51
+ORD-2125,2024-06-04,CUST-244,Asia-Pacific,Electronics,Ultra Monitor,450,4,0.1,1620.0,655.91
+ORD-1325,2024-06-06,CUST-158,North America,Electronics,Wireless Headphone,150,4,0.15,510.0,211.43
+ORD-1681,2024-06-06,CUST-202,Europe,Electronics,Smart Watch,250,2,0.0,500.0,173.39
+ORD-1823,2024-06-06,CUST-249,North America,Hardware,RAM Kit 32GB,130,9,0.15,994.5,244.94
+ORD-1234,2024-06-07,CUST-217,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,8,0.15,17000.0,4715.09
+ORD-2142,2024-06-07,CUST-173,Europe,Hardware,NVMe SSD 1TB,110,1,0.2,88.0,35.74
+ORD-2163,2024-06-08,CUST-244,Latin America,Office Supplies,Mechanical Keyboard,120,4,0.2,384.0,94.53
+ORD-1312,2024-06-09,CUST-185,Europe,Office Supplies,Paper Shredder,90,4,0.05,342.0,60.42
+ORD-1340,2024-06-09,CUST-177,Asia-Pacific,Hardware,RAM Kit 32GB,130,9,0.1,1053.0,181.4
+ORD-1868,2024-06-09,CUST-216,Latin America,Electronics,Wireless Headphone,150,9,0.15,1147.5,359.97
+ORD-1393,2024-06-10,CUST-112,Europe,Office Supplies,LED Desk Lamp,45,6,0.15,229.5,44.42
+ORD-1944,2024-06-11,CUST-235,Europe,Hardware,Motherboard Z790,280,2,0.05,532.0,205.72
+ORD-2091,2024-06-11,CUST-182,North America,Software & Cloud,CRM Standard,450,5,0.0,2250.0,544.18
+ORD-2189,2024-06-11,CUST-159,North America,Electronics,Tablet Air,600,2,0.15,1020.0,422.04
+ORD-1238,2024-06-12,CUST-148,Asia-Pacific,Office Supplies,Ergonomic Chair,350,7,0.05,2327.5,455.95
+ORD-1411,2024-06-13,CUST-237,North America,Office Supplies,Standing Desk,550,6,0.0,3300.0,618.12
+ORD-2053,2024-06-13,CUST-209,North America,Hardware,Power Supply 850W,140,4,0.1,504.0,173.65
+ORD-1191,2024-06-14,CUST-187,Europe,Hardware,NVMe SSD 1TB,110,6,0.2,528.0,121.81
+ORD-1529,2024-06-14,CUST-219,Latin America,Electronics,Smart Watch,250,2,0.1,450.0,158.97
+ORD-1584,2024-06-14,CUST-171,Asia-Pacific,Electronics,Tablet Air,600,6,0.1,3240.0,701.04
+ORD-2197,2024-06-14,CUST-163,North America,Electronics,Laptop Pro,1200,3,0.2,2880.0,1214.65
+ORD-1663,2024-06-15,CUST-249,North America,Hardware,RAM Kit 32GB,130,3,0.0,390.0,125.38
+ORD-1771,2024-06-15,CUST-143,North America,Hardware,NVMe SSD 1TB,110,1,0.05,104.5,38.78
+ORD-1821,2024-06-15,CUST-170,North America,Electronics,Tablet Air,600,2,0.15,1020.0,290.73
+ORD-1999,2024-06-15,CUST-145,Asia-Pacific,Hardware,NVMe SSD 1TB,110,8,0.15,748.0,255.1
+ORD-1318,2024-06-16,CUST-230,Latin America,Office Supplies,LED Desk Lamp,45,1,0.05,42.75,7.25
+ORD-1459,2024-06-16,CUST-233,North America,Software & Cloud,CRM Standard,450,1,0.2,360.0,131.59
+ORD-1832,2024-06-16,CUST-167,Asia-Pacific,Hardware,Power Supply 850W,140,8,0.15,952.0,266.25
+ORD-1223,2024-06-17,CUST-167,Europe,Electronics,Tablet Air,600,9,0.2,4320.0,1382.85
+ORD-1279,2024-06-17,CUST-239,Europe,Electronics,Wireless Headphone,150,7,0.05,997.5,246.05
+ORD-1739,2024-06-17,CUST-100,Europe,Software & Cloud,AI Analytics Suite,1800,2,0.1,3240.0,553.1
+ORD-1785,2024-06-17,CUST-242,North America,Electronics,Wireless Headphone,150,8,0.15,1020.0,359.98
+ORD-2101,2024-06-17,CUST-122,North America,Software & Cloud,CRM Standard,450,7,0.1,2835.0,751.13
+ORD-1016,2024-06-18,CUST-143,Europe,Electronics,Laptop Pro,1200,5,0.15,5100.0,1994.62
+ORD-1514,2024-06-18,CUST-229,Europe,Electronics,Tablet Air,600,6,0.1,3240.0,666.18
+ORD-1879,2024-06-18,CUST-174,Europe,Electronics,Tablet Air,600,4,0.05,2280.0,655.1
+ORD-1558,2024-06-19,CUST-215,Europe,Electronics,Tablet Air,600,7,0.0,4200.0,1273.33
+ORD-1235,2024-06-20,CUST-236,Asia-Pacific,Hardware,Motherboard Z790,280,7,0.2,1568.0,651.13
+ORD-1662,2024-06-20,CUST-243,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,9,0.0,2700.0,416.8
+ORD-1070,2024-06-21,CUST-246,Latin America,Hardware,Motherboard Z790,280,5,0.2,1120.0,501.64
+ORD-1103,2024-06-21,CUST-118,North America,Hardware,Motherboard Z790,280,6,0.05,1596.0,394.38
+ORD-1144,2024-06-21,CUST-145,North America,Electronics,Wireless Headphone,150,5,0.15,637.5,243.06
+ORD-1392,2024-06-21,CUST-165,North America,Hardware,Graphics Card RTX,850,3,0.1,2295.0,942.52
+ORD-1408,2024-06-21,CUST-127,Latin America,Electronics,Wireless Headphone,150,9,0.15,1147.5,426.39
+ORD-1507,2024-06-21,CUST-222,North America,Office Supplies,Standing Desk,550,6,0.15,2805.0,1259.88
+ORD-1517,2024-06-21,CUST-199,Asia-Pacific,Hardware,RAM Kit 32GB,130,5,0.05,617.5,144.21
+ORD-2148,2024-06-21,CUST-141,North America,Software & Cloud,Cloud Storage Pro,300,7,0.05,1995.0,790.36
+ORD-2155,2024-06-21,CUST-170,Asia-Pacific,Hardware,Graphics Card RTX,850,8,0.1,6120.0,2076.24
+ORD-1189,2024-06-22,CUST-123,Latin America,Office Supplies,LED Desk Lamp,45,7,0.1,283.5,110.29
+ORD-1345,2024-06-22,CUST-249,Europe,Software & Cloud,SaaS Enterprise License,2500,3,0.05,7125.0,1421.06
+ORD-1356,2024-06-22,CUST-181,North America,Software & Cloud,CRM Standard,450,7,0.0,3150.0,1043.09
+ORD-1384,2024-06-23,CUST-172,North America,Software & Cloud,Security Vault,750,7,0.2,4200.0,1230.37
+ORD-1403,2024-06-23,CUST-123,Asia-Pacific,Software & Cloud,CRM Standard,450,5,0.1,2025.0,708.58
+ORD-1456,2024-06-23,CUST-199,Asia-Pacific,Electronics,Laptop Pro,1200,1,0.1,1080.0,318.33
+ORD-1499,2024-06-23,CUST-228,Europe,Office Supplies,Ergonomic Chair,350,2,0.05,665.0,181.94
+ORD-1960,2024-06-23,CUST-212,Asia-Pacific,Office Supplies,LED Desk Lamp,45,6,0.2,216.0,50.38
+ORD-1039,2024-06-24,CUST-112,North America,Software & Cloud,CRM Standard,450,7,0.05,2992.5,1176.15
+ORD-1705,2024-06-24,CUST-158,Asia-Pacific,Electronics,Smart Watch,250,8,0.1,1800.0,780.7
+ORD-1744,2024-06-24,CUST-209,North America,Software & Cloud,CRM Standard,450,6,0.0,2700.0,470.27
+ORD-1077,2024-06-25,CUST-197,North America,Software & Cloud,CRM Standard,450,9,0.1,3645.0,1467.61
+ORD-1963,2024-06-25,CUST-155,North America,Electronics,Laptop Pro,1200,6,0.15,6120.0,1851.98
+ORD-1053,2024-06-26,CUST-200,Europe,Software & Cloud,Security Vault,750,1,0.0,750.0,295.02
+ORD-1218,2024-06-26,CUST-225,North America,Software & Cloud,Security Vault,750,6,0.15,3825.0,718.04
+ORD-1265,2024-06-26,CUST-191,Europe,Software & Cloud,CRM Standard,450,4,0.2,1440.0,369.03
+ORD-2042,2024-06-26,CUST-167,Europe,Office Supplies,Standing Desk,550,9,0.1,4455.0,1787.5
+ORD-1194,2024-06-27,CUST-179,Europe,Hardware,NVMe SSD 1TB,110,1,0.15,93.5,41.7
+ORD-1483,2024-06-27,CUST-206,Europe,Office Supplies,Standing Desk,550,1,0.0,550.0,116.53
+ORD-1667,2024-06-27,CUST-108,Europe,Electronics,Smart Watch,250,8,0.2,1600.0,717.4
+ORD-1726,2024-06-27,CUST-164,Latin America,Office Supplies,LED Desk Lamp,45,8,0.1,324.0,48.66
+ORD-1020,2024-06-28,CUST-229,Asia-Pacific,Electronics,Laptop Pro,1200,4,0.15,4080.0,920.18
+ORD-1559,2024-06-28,CUST-156,Europe,Office Supplies,LED Desk Lamp,45,5,0.15,191.25,44.66
+ORD-1740,2024-06-28,CUST-248,North America,Hardware,Graphics Card RTX,850,7,0.05,5652.5,1859.33
+ORD-1761,2024-06-28,CUST-152,North America,Software & Cloud,CRM Standard,450,3,0.1,1215.0,306.18
+ORD-1834,2024-06-28,CUST-239,Asia-Pacific,Office Supplies,LED Desk Lamp,45,6,0.1,243.0,95.62
+ORD-1912,2024-06-28,CUST-124,Europe,Electronics,Tablet Air,600,4,0.2,1920.0,329.59
+ORD-1217,2024-06-29,CUST-138,Europe,Office Supplies,Mechanical Keyboard,120,2,0.0,240.0,82.02
+ORD-1656,2024-06-29,CUST-189,North America,Software & Cloud,CRM Standard,450,1,0.05,427.5,190.8
+ORD-1872,2024-06-29,CUST-120,North America,Office Supplies,Standing Desk,550,9,0.05,4702.5,1463.34
+ORD-1936,2024-06-29,CUST-114,North America,Software & Cloud,Security Vault,750,7,0.0,5250.0,1958.28
+ORD-1067,2024-06-30,CUST-225,North America,Software & Cloud,AI Analytics Suite,1800,3,0.1,4860.0,1098.87
+ORD-1305,2024-06-30,CUST-135,North America,Office Supplies,LED Desk Lamp,45,9,0.15,344.25,119.48
+ORD-1560,2024-06-30,CUST-108,North America,Software & Cloud,SaaS Enterprise License,2500,3,0.1,6750.0,1921.8
+ORD-1723,2024-06-30,CUST-170,Europe,Software & Cloud,Cloud Storage Pro,300,2,0.05,570.0,91.95
+ORD-1782,2024-06-30,CUST-175,Latin America,Electronics,Smart Watch,250,3,0.05,712.5,217.02
+ORD-1810,2024-06-30,CUST-156,North America,Electronics,Ultra Monitor,450,5,0.2,1800.0,583.11
+ORD-1931,2024-06-30,CUST-110,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,5,0.15,510.0,77.1
+ORD-1281,2024-07-01,CUST-213,Latin America,Electronics,Laptop Pro,1200,8,0.1,8640.0,2721.84
+ORD-1747,2024-07-01,CUST-200,Europe,Electronics,Wireless Headphone,150,1,0.05,142.5,52.53
+ORD-1023,2024-07-02,CUST-238,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,6,0.2,12000.0,4076.3
+ORD-1308,2024-07-02,CUST-120,Europe,Software & Cloud,Security Vault,750,2,0.05,1425.0,454.0
+ORD-1813,2024-07-02,CUST-180,Europe,Software & Cloud,AI Analytics Suite,1800,5,0.2,7200.0,1829.94
+ORD-2157,2024-07-02,CUST-179,Europe,Office Supplies,Ergonomic Chair,350,4,0.1,1260.0,541.5
+ORD-1160,2024-07-03,CUST-202,Europe,Hardware,RAM Kit 32GB,130,9,0.05,1111.5,197.3
+ORD-1402,2024-07-04,CUST-219,Europe,Software & Cloud,Cloud Storage Pro,300,1,0.15,255.0,86.65
+ORD-1921,2024-07-04,CUST-176,Asia-Pacific,Office Supplies,Paper Shredder,90,4,0.1,324.0,126.05
+ORD-1961,2024-07-04,CUST-164,North America,Electronics,Tablet Air,600,6,0.1,3240.0,981.24
+ORD-2090,2024-07-04,CUST-133,Latin America,Software & Cloud,AI Analytics Suite,1800,1,0.2,1440.0,550.66
+ORD-1605,2024-07-05,CUST-126,Europe,Office Supplies,Ergonomic Chair,350,4,0.05,1330.0,224.19
+ORD-1440,2024-07-06,CUST-231,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,8,0.2,1920.0,529.6
+ORD-1550,2024-07-06,CUST-219,North America,Office Supplies,LED Desk Lamp,45,7,0.0,315.0,117.33
+ORD-1670,2024-07-06,CUST-233,Europe,Office Supplies,Ergonomic Chair,350,4,0.0,1400.0,234.82
+ORD-1850,2024-07-06,CUST-184,North America,Office Supplies,Paper Shredder,90,2,0.15,153.0,41.22
+ORD-1888,2024-07-06,CUST-202,Latin America,Office Supplies,Ergonomic Chair,350,1,0.15,297.5,98.56
+ORD-1918,2024-07-06,CUST-173,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,4,0.0,1200.0,410.11
+ORD-2099,2024-07-07,CUST-150,Europe,Hardware,Power Supply 850W,140,7,0.15,833.0,157.71
+ORD-1058,2024-07-08,CUST-198,North America,Hardware,Motherboard Z790,280,1,0.2,224.0,83.32
+ORD-1253,2024-07-08,CUST-249,Europe,Software & Cloud,Cloud Storage Pro,300,4,0.05,1140.0,347.36
+ORD-1351,2024-07-08,CUST-138,Asia-Pacific,Hardware,Power Supply 850W,140,4,0.15,476.0,112.08
+ORD-1947,2024-07-08,CUST-207,North America,Software & Cloud,Security Vault,750,5,0.05,3562.5,1556.0
+ORD-1984,2024-07-08,CUST-203,Europe,Software & Cloud,Cloud Storage Pro,300,4,0.2,960.0,323.14
+ORD-2063,2024-07-08,CUST-249,Europe,Electronics,Ultra Monitor,450,6,0.0,2700.0,949.55
+ORD-1069,2024-07-09,CUST-233,Asia-Pacific,Hardware,NVMe SSD 1TB,110,9,0.0,990.0,214.91
+ORD-1452,2024-07-09,CUST-187,North America,Electronics,Smart Watch,250,4,0.0,1000.0,429.88
+ORD-2071,2024-07-09,CUST-143,Latin America,Software & Cloud,SaaS Enterprise License,2500,8,0.2,16000.0,2766.25
+ORD-2145,2024-07-09,CUST-155,Europe,Office Supplies,Paper Shredder,90,7,0.15,535.5,218.66
+ORD-1035,2024-07-10,CUST-136,Latin America,Electronics,Laptop Pro,1200,5,0.1,5400.0,2021.3
+ORD-1048,2024-07-10,CUST-175,Europe,Software & Cloud,CRM Standard,450,6,0.2,2160.0,595.9
+ORD-1057,2024-07-10,CUST-195,North America,Software & Cloud,SaaS Enterprise License,2500,3,0.15,6375.0,1667.73
+ORD-1271,2024-07-10,CUST-147,North America,Electronics,Laptop Pro,1200,9,0.0,10800.0,4240.78
+ORD-1352,2024-07-10,CUST-136,North America,Office Supplies,Standing Desk,550,6,0.0,3300.0,888.04
+ORD-1354,2024-07-10,CUST-171,Latin America,Software & Cloud,AI Analytics Suite,1800,1,0.15,1530.0,564.51
+ORD-1383,2024-07-10,CUST-181,Europe,Electronics,Smart Watch,250,2,0.0,500.0,204.84
+ORD-1541,2024-07-10,CUST-127,North America,Hardware,Motherboard Z790,280,8,0.15,1904.0,757.76
+ORD-1544,2024-07-10,CUST-159,Europe,Office Supplies,Standing Desk,550,8,0.1,3960.0,597.73
+ORD-2080,2024-07-10,CUST-187,Europe,Hardware,RAM Kit 32GB,130,2,0.15,221.0,35.33
+ORD-1848,2024-07-11,CUST-124,Asia-Pacific,Software & Cloud,AI Analytics Suite,1800,3,0.15,4590.0,2041.38
+ORD-2170,2024-07-11,CUST-224,North America,Electronics,Ultra Monitor,450,4,0.2,1440.0,505.17
+ORD-1130,2024-07-12,CUST-162,North America,Office Supplies,LED Desk Lamp,45,1,0.05,42.75,12.79
+ORD-1804,2024-07-12,CUST-221,Europe,Electronics,Wireless Headphone,150,9,0.2,1080.0,179.0
+ORD-2046,2024-07-12,CUST-184,North America,Hardware,NVMe SSD 1TB,110,3,0.0,330.0,57.71
+ORD-1137,2024-07-13,CUST-236,Europe,Software & Cloud,Security Vault,750,4,0.2,2400.0,608.54
+ORD-1443,2024-07-13,CUST-123,North America,Software & Cloud,AI Analytics Suite,1800,8,0.2,11520.0,4239.65
+ORD-1630,2024-07-13,CUST-239,North America,Software & Cloud,CRM Standard,450,5,0.15,1912.5,473.82
+ORD-1244,2024-07-14,CUST-126,Europe,Electronics,Laptop Pro,1200,2,0.15,2040.0,795.82
+ORD-1341,2024-07-14,CUST-209,North America,Software & Cloud,Security Vault,750,8,0.05,5700.0,1996.95
+ORD-1372,2024-07-14,CUST-158,Latin America,Office Supplies,LED Desk Lamp,45,9,0.0,405.0,71.47
+ORD-1965,2024-07-14,CUST-202,Europe,Hardware,Motherboard Z790,280,8,0.0,2240.0,516.26
+ORD-1320,2024-07-15,CUST-140,Europe,Software & Cloud,AI Analytics Suite,1800,8,0.15,12240.0,3757.67
+ORD-1638,2024-07-15,CUST-103,Europe,Software & Cloud,Security Vault,750,4,0.2,2400.0,544.86
+ORD-1816,2024-07-15,CUST-150,North America,Office Supplies,LED Desk Lamp,45,4,0.2,144.0,31.42
+ORD-2037,2024-07-15,CUST-228,North America,Office Supplies,Ergonomic Chair,350,4,0.0,1400.0,423.65
+ORD-1731,2024-07-16,CUST-115,North America,Electronics,Laptop Pro,1200,3,0.0,3600.0,806.72
+ORD-1154,2024-07-17,CUST-178,Europe,Electronics,Wireless Headphone,150,5,0.05,712.5,173.75
+ORD-1226,2024-07-17,CUST-148,Europe,Software & Cloud,CRM Standard,450,3,0.15,1147.5,360.95
+ORD-1839,2024-07-17,CUST-169,North America,Software & Cloud,SaaS Enterprise License,2500,6,0.2,12000.0,2894.85
+ORD-1928,2024-07-17,CUST-205,North America,Office Supplies,Standing Desk,550,8,0.1,3960.0,1670.22
+ORD-1552,2024-07-18,CUST-175,Europe,Software & Cloud,SaaS Enterprise License,2500,6,0.1,13500.0,5827.52
+ORD-1791,2024-07-18,CUST-150,North America,Electronics,Smart Watch,250,9,0.2,1800.0,485.53
+ORD-1855,2024-07-18,CUST-145,Europe,Software & Cloud,CRM Standard,450,8,0.15,3060.0,930.87
+ORD-1338,2024-07-19,CUST-218,Europe,Hardware,RAM Kit 32GB,130,7,0.0,910.0,219.7
+ORD-1497,2024-07-19,CUST-225,Latin America,Office Supplies,LED Desk Lamp,45,7,0.1,283.5,71.07
+ORD-1548,2024-07-19,CUST-147,Europe,Software & Cloud,Security Vault,750,6,0.1,4050.0,1407.07
+ORD-1625,2024-07-19,CUST-165,Europe,Office Supplies,Ergonomic Chair,350,2,0.15,595.0,175.41
+ORD-1367,2024-07-20,CUST-225,Europe,Hardware,Graphics Card RTX,850,3,0.1,2295.0,609.92
+ORD-1675,2024-07-21,CUST-113,Asia-Pacific,Software & Cloud,AI Analytics Suite,1800,7,0.2,10080.0,3590.38
+ORD-1818,2024-07-21,CUST-126,North America,Software & Cloud,SaaS Enterprise License,2500,1,0.15,2125.0,471.52
+ORD-1847,2024-07-21,CUST-210,Europe,Software & Cloud,SaaS Enterprise License,2500,5,0.05,11875.0,2013.8
+ORD-2004,2024-07-21,CUST-223,Europe,Electronics,Laptop Pro,1200,2,0.05,2280.0,518.74
+ORD-1515,2024-07-22,CUST-239,Europe,Office Supplies,LED Desk Lamp,45,1,0.05,42.75,15.34
+ORD-1909,2024-07-22,CUST-198,Europe,Office Supplies,Paper Shredder,90,9,0.2,648.0,282.32
+ORD-1418,2024-07-23,CUST-189,Latin America,Software & Cloud,Security Vault,750,7,0.15,4462.5,746.81
+ORD-1487,2024-07-23,CUST-228,Asia-Pacific,Hardware,Motherboard Z790,280,6,0.15,1428.0,304.18
+ORD-1006,2024-07-24,CUST-233,North America,Electronics,Ultra Monitor,450,2,0.15,765.0,186.29
+ORD-1257,2024-07-24,CUST-153,North America,Hardware,Graphics Card RTX,850,9,0.05,7267.5,1379.06
+ORD-1734,2024-07-24,CUST-180,Europe,Office Supplies,Mechanical Keyboard,120,2,0.05,228.0,47.49
+ORD-2198,2024-07-24,CUST-210,Asia-Pacific,Electronics,Smart Watch,250,3,0.1,675.0,195.35
+ORD-1014,2024-07-25,CUST-195,Europe,Software & Cloud,Cloud Storage Pro,300,3,0.0,900.0,219.88
+ORD-1510,2024-07-25,CUST-200,Europe,Hardware,NVMe SSD 1TB,110,4,0.0,440.0,143.05
+ORD-1525,2024-07-25,CUST-184,Europe,Hardware,Power Supply 850W,140,3,0.1,378.0,127.53
+ORD-1537,2024-07-25,CUST-218,North America,Software & Cloud,CRM Standard,450,4,0.15,1530.0,260.26
+ORD-1642,2024-07-25,CUST-233,North America,Software & Cloud,AI Analytics Suite,1800,6,0.05,10260.0,3072.24
+ORD-2107,2024-07-25,CUST-100,Asia-Pacific,Office Supplies,Ergonomic Chair,350,8,0.15,2380.0,966.32
+ORD-1029,2024-07-26,CUST-174,Latin America,Software & Cloud,Security Vault,750,8,0.0,6000.0,2055.66
+ORD-1188,2024-07-26,CUST-107,Asia-Pacific,Software & Cloud,Security Vault,750,9,0.0,6750.0,1197.11
+ORD-1569,2024-07-26,CUST-210,North America,Office Supplies,LED Desk Lamp,45,6,0.15,229.5,45.78
+ORD-1853,2024-07-26,CUST-189,North America,Software & Cloud,AI Analytics Suite,1800,5,0.05,8550.0,3003.01
+ORD-1903,2024-07-26,CUST-157,North America,Hardware,Power Supply 850W,140,6,0.15,714.0,320.44
+ORD-2031,2024-07-26,CUST-226,Latin America,Office Supplies,LED Desk Lamp,45,3,0.05,128.25,19.82
+ORD-2172,2024-07-26,CUST-146,Asia-Pacific,Electronics,Wireless Headphone,150,5,0.2,600.0,228.56
+ORD-1535,2024-07-27,CUST-144,Latin America,Hardware,RAM Kit 32GB,130,4,0.1,468.0,99.86
+ORD-1741,2024-07-27,CUST-155,Europe,Electronics,Wireless Headphone,150,3,0.05,427.5,136.51
+ORD-2173,2024-07-28,CUST-100,North America,Hardware,RAM Kit 32GB,130,1,0.2,104.0,24.7
+ORD-1276,2024-07-29,CUST-104,Europe,Software & Cloud,AI Analytics Suite,1800,3,0.1,4860.0,1329.89
+ORD-1640,2024-07-29,CUST-214,Europe,Hardware,RAM Kit 32GB,130,8,0.05,988.0,303.38
+ORD-1831,2024-07-29,CUST-167,North America,Electronics,Ultra Monitor,450,8,0.1,3240.0,892.63
+ORD-2178,2024-07-29,CUST-159,North America,Software & Cloud,SaaS Enterprise License,2500,5,0.2,10000.0,2600.26
+ORD-1479,2024-07-30,CUST-162,North America,Electronics,Laptop Pro,1200,5,0.15,5100.0,786.03
+ORD-1268,2024-07-31,CUST-238,Europe,Office Supplies,Standing Desk,550,5,0.2,2200.0,859.01
+ORD-1282,2024-07-31,CUST-131,North America,Hardware,Power Supply 850W,140,1,0.2,112.0,26.41
+ORD-1985,2024-07-31,CUST-163,North America,Hardware,Power Supply 850W,140,3,0.05,399.0,102.92
+ORD-1273,2024-08-01,CUST-168,Asia-Pacific,Hardware,NVMe SSD 1TB,110,1,0.15,93.5,26.66
+ORD-1577,2024-08-01,CUST-160,Asia-Pacific,Hardware,Power Supply 850W,140,8,0.05,1064.0,338.54
+ORD-1598,2024-08-01,CUST-211,Europe,Hardware,Power Supply 850W,140,6,0.0,840.0,226.85
+ORD-1700,2024-08-01,CUST-134,Asia-Pacific,Software & Cloud,Security Vault,750,3,0.0,2250.0,587.41
+ORD-1840,2024-08-01,CUST-148,Europe,Hardware,NVMe SSD 1TB,110,1,0.2,88.0,26.39
+ORD-2081,2024-08-01,CUST-151,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,9,0.1,2430.0,430.79
+ORD-2165,2024-08-01,CUST-128,Asia-Pacific,Office Supplies,LED Desk Lamp,45,9,0.0,405.0,110.09
+ORD-1139,2024-08-02,CUST-108,Europe,Hardware,NVMe SSD 1TB,110,2,0.1,198.0,60.14
+ORD-1141,2024-08-02,CUST-141,Europe,Electronics,Smart Watch,250,6,0.05,1425.0,440.18
+ORD-1664,2024-08-02,CUST-138,North America,Electronics,Wireless Headphone,150,5,0.1,675.0,147.17
+ORD-1168,2024-08-03,CUST-188,Europe,Software & Cloud,AI Analytics Suite,1800,6,0.2,8640.0,1876.14
+ORD-1344,2024-08-03,CUST-175,Latin America,Hardware,NVMe SSD 1TB,110,8,0.2,704.0,252.27
+ORD-1628,2024-08-03,CUST-121,Europe,Office Supplies,Standing Desk,550,6,0.15,2805.0,1255.06
+ORD-1676,2024-08-03,CUST-118,North America,Electronics,Laptop Pro,1200,3,0.1,3240.0,1436.83
+ORD-1910,2024-08-03,CUST-130,Europe,Software & Cloud,SaaS Enterprise License,2500,7,0.2,14000.0,6228.01
+ORD-2005,2024-08-03,CUST-136,North America,Hardware,Power Supply 850W,140,7,0.1,882.0,334.48
+ORD-1417,2024-08-04,CUST-197,Europe,Hardware,Motherboard Z790,280,6,0.1,1512.0,364.2
+ORD-1649,2024-08-04,CUST-163,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,5,0.15,1275.0,343.08
+ORD-1870,2024-08-04,CUST-150,North America,Hardware,Graphics Card RTX,850,3,0.0,2550.0,464.53
+ORD-1166,2024-08-05,CUST-146,North America,Electronics,Laptop Pro,1200,3,0.2,2880.0,481.98
+ORD-1311,2024-08-05,CUST-227,Latin America,Electronics,Laptop Pro,1200,3,0.1,3240.0,1430.79
+ORD-1652,2024-08-05,CUST-134,North America,Hardware,NVMe SSD 1TB,110,7,0.05,731.5,301.07
+ORD-1779,2024-08-05,CUST-246,Europe,Hardware,NVMe SSD 1TB,110,8,0.0,880.0,207.29
+ORD-2023,2024-08-05,CUST-119,North America,Office Supplies,Paper Shredder,90,1,0.05,85.5,33.53
+ORD-1323,2024-08-07,CUST-209,North America,Electronics,Tablet Air,600,5,0.15,2550.0,993.42
+ORD-1677,2024-08-07,CUST-225,North America,Hardware,RAM Kit 32GB,130,1,0.1,117.0,35.87
+ORD-1859,2024-08-07,CUST-204,North America,Hardware,Motherboard Z790,280,5,0.05,1330.0,281.65
+ORD-1295,2024-08-08,CUST-154,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,8,0.2,768.0,248.83
+ORD-1594,2024-08-08,CUST-193,Europe,Software & Cloud,Security Vault,750,2,0.1,1350.0,564.41
+ORD-1954,2024-08-08,CUST-200,Europe,Software & Cloud,Cloud Storage Pro,300,9,0.05,2565.0,733.14
+ORD-1425,2024-08-09,CUST-207,Asia-Pacific,Software & Cloud,CRM Standard,450,8,0.15,3060.0,1283.07
+ORD-1551,2024-08-09,CUST-249,Europe,Software & Cloud,Security Vault,750,3,0.2,1800.0,489.54
+ORD-1941,2024-08-09,CUST-126,North America,Hardware,RAM Kit 32GB,130,1,0.1,117.0,20.7
+ORD-1101,2024-08-10,CUST-178,Asia-Pacific,Office Supplies,Standing Desk,550,4,0.15,1870.0,795.16
+ORD-1292,2024-08-10,CUST-224,Europe,Software & Cloud,AI Analytics Suite,1800,5,0.05,8550.0,2227.21
+ORD-2092,2024-08-10,CUST-233,North America,Electronics,Wireless Headphone,150,3,0.1,405.0,99.44
+ORD-1022,2024-08-11,CUST-167,North America,Electronics,Laptop Pro,1200,3,0.05,3420.0,1057.74
+ORD-1177,2024-08-11,CUST-197,Europe,Electronics,Smart Watch,250,1,0.0,250.0,84.89
+ORD-1506,2024-08-11,CUST-215,Europe,Hardware,RAM Kit 32GB,130,9,0.15,994.5,402.15
+ORD-1019,2024-08-12,CUST-195,Europe,Software & Cloud,Cloud Storage Pro,300,8,0.1,2160.0,533.44
+ORD-2029,2024-08-12,CUST-161,Latin America,Software & Cloud,Security Vault,750,6,0.2,3600.0,848.0
+ORD-2144,2024-08-12,CUST-160,Asia-Pacific,Office Supplies,Ergonomic Chair,350,8,0.2,2240.0,979.66
+ORD-1170,2024-08-13,CUST-223,North America,Hardware,Graphics Card RTX,850,9,0.0,7650.0,2411.72
+ORD-1239,2024-08-13,CUST-110,North America,Electronics,Tablet Air,600,1,0.2,480.0,164.44
+ORD-1790,2024-08-13,CUST-170,Asia-Pacific,Electronics,Wireless Headphone,150,6,0.15,765.0,258.99
+ORD-1794,2024-08-13,CUST-127,North America,Electronics,Ultra Monitor,450,9,0.2,3240.0,721.75
+ORD-1845,2024-08-13,CUST-224,North America,Electronics,Wireless Headphone,150,3,0.0,450.0,193.37
+ORD-1406,2024-08-14,CUST-240,Europe,Hardware,NVMe SSD 1TB,110,7,0.0,770.0,158.47
+ORD-1564,2024-08-14,CUST-162,North America,Software & Cloud,AI Analytics Suite,1800,8,0.0,14400.0,3595.13
+ORD-2139,2024-08-14,CUST-159,Latin America,Office Supplies,Mechanical Keyboard,120,9,0.2,864.0,388.52
+ORD-1206,2024-08-15,CUST-224,North America,Office Supplies,Standing Desk,550,4,0.05,2090.0,935.57
+ORD-1434,2024-08-15,CUST-188,Asia-Pacific,Electronics,Smart Watch,250,2,0.1,450.0,134.28
+ORD-1609,2024-08-15,CUST-163,North America,Software & Cloud,Security Vault,750,3,0.2,1800.0,578.88
+ORD-2124,2024-08-15,CUST-218,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,1,0.2,240.0,87.6
+ORD-1083,2024-08-16,CUST-149,Europe,Electronics,Wireless Headphone,150,3,0.15,382.5,169.88
+ORD-1099,2024-08-16,CUST-211,North America,Electronics,Laptop Pro,1200,5,0.2,4800.0,940.12
+ORD-1150,2024-08-16,CUST-200,North America,Hardware,RAM Kit 32GB,130,3,0.05,370.5,67.03
+ORD-1266,2024-08-16,CUST-248,North America,Electronics,Tablet Air,600,7,0.05,3990.0,758.66
+ORD-1876,2024-08-16,CUST-180,North America,Office Supplies,LED Desk Lamp,45,7,0.15,267.75,65.09
+ORD-1942,2024-08-16,CUST-123,North America,Hardware,Graphics Card RTX,850,8,0.1,6120.0,2090.6
+ORD-1990,2024-08-16,CUST-227,Europe,Software & Cloud,SaaS Enterprise License,2500,2,0.1,4500.0,1361.45
+ORD-1413,2024-08-17,CUST-203,North America,Electronics,Ultra Monitor,450,7,0.15,2677.5,616.3
+ORD-1643,2024-08-17,CUST-151,Asia-Pacific,Electronics,Wireless Headphone,150,1,0.1,135.0,53.05
+ORD-1015,2024-08-18,CUST-185,Asia-Pacific,Electronics,Smart Watch,250,4,0.2,800.0,138.48
+ORD-1251,2024-08-18,CUST-241,North America,Hardware,NVMe SSD 1TB,110,5,0.15,467.5,179.8
+ORD-1243,2024-08-19,CUST-196,North America,Electronics,Laptop Pro,1200,4,0.1,4320.0,1167.94
+ORD-1562,2024-08-19,CUST-184,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,7,0.1,756.0,261.16
+ORD-1798,2024-08-19,CUST-179,Europe,Software & Cloud,AI Analytics Suite,1800,2,0.0,3600.0,1314.64
+ORD-1929,2024-08-19,CUST-190,North America,Hardware,Graphics Card RTX,850,8,0.2,5440.0,1767.91
+ORD-1060,2024-08-20,CUST-227,Europe,Software & Cloud,Security Vault,750,9,0.15,5737.5,2495.92
+ORD-1196,2024-08-20,CUST-202,North America,Electronics,Laptop Pro,1200,4,0.05,4560.0,1226.99
+ORD-1270,2024-08-20,CUST-240,North America,Electronics,Ultra Monitor,450,6,0.05,2565.0,988.82
+ORD-1395,2024-08-20,CUST-156,Asia-Pacific,Office Supplies,Paper Shredder,90,5,0.1,405.0,104.22
+ORD-1755,2024-08-20,CUST-144,North America,Office Supplies,Mechanical Keyboard,120,7,0.0,840.0,314.65
+ORD-2185,2024-08-20,CUST-188,Asia-Pacific,Software & Cloud,Security Vault,750,6,0.0,4500.0,1437.79
+ORD-2114,2024-08-21,CUST-101,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,3,0.15,6375.0,1623.81
+ORD-2149,2024-08-21,CUST-115,Asia-Pacific,Electronics,Smart Watch,250,3,0.05,712.5,214.99
+ORD-1647,2024-08-22,CUST-113,North America,Software & Cloud,SaaS Enterprise License,2500,9,0.2,18000.0,4532.25
+ORD-2176,2024-08-22,CUST-104,Asia-Pacific,Software & Cloud,CRM Standard,450,4,0.0,1800.0,419.72
+ORD-2195,2024-08-22,CUST-205,Europe,Software & Cloud,Cloud Storage Pro,300,1,0.05,285.0,77.96
+ORD-1082,2024-08-23,CUST-146,Europe,Electronics,Smart Watch,250,9,0.0,2250.0,427.96
+ORD-1108,2024-08-23,CUST-175,North America,Office Supplies,Paper Shredder,90,8,0.1,648.0,279.61
+ORD-1852,2024-08-23,CUST-146,Asia-Pacific,Office Supplies,Paper Shredder,90,1,0.2,72.0,13.82
+ORD-1111,2024-08-24,CUST-196,Asia-Pacific,Office Supplies,Ergonomic Chair,350,2,0.1,630.0,212.46
+ORD-1140,2024-08-24,CUST-128,North America,Electronics,Laptop Pro,1200,6,0.1,6480.0,1791.79
+ORD-1207,2024-08-24,CUST-199,Latin America,Office Supplies,Paper Shredder,90,1,0.1,81.0,31.01
+ORD-1476,2024-08-24,CUST-126,Europe,Office Supplies,Standing Desk,550,6,0.0,3300.0,988.06
+ORD-1578,2024-08-24,CUST-192,North America,Electronics,Tablet Air,600,8,0.1,4320.0,1918.82
+ORD-1787,2024-08-24,CUST-243,North America,Electronics,Smart Watch,250,7,0.2,1400.0,264.75
+ORD-1945,2024-08-24,CUST-197,North America,Electronics,Ultra Monitor,450,4,0.2,1440.0,261.29
+ORD-1922,2024-08-25,CUST-116,Latin America,Electronics,Wireless Headphone,150,9,0.0,1350.0,580.99
+ORD-2016,2024-08-25,CUST-180,North America,Electronics,Laptop Pro,1200,3,0.1,3240.0,786.71
+ORD-1500,2024-08-26,CUST-227,Latin America,Electronics,Laptop Pro,1200,5,0.2,4800.0,1205.58
+ORD-1962,2024-08-26,CUST-238,Europe,Office Supplies,Standing Desk,550,9,0.0,4950.0,1210.89
+ORD-2050,2024-08-26,CUST-227,Europe,Office Supplies,Standing Desk,550,1,0.05,522.5,96.46
+ORD-1426,2024-08-27,CUST-169,North America,Software & Cloud,CRM Standard,450,2,0.1,810.0,216.72
+ORD-1460,2024-08-27,CUST-142,Asia-Pacific,Hardware,Power Supply 850W,140,3,0.15,357.0,77.83
+ORD-1435,2024-08-28,CUST-198,Latin America,Software & Cloud,Security Vault,750,4,0.2,2400.0,383.48
+ORD-1076,2024-08-29,CUST-245,Latin America,Software & Cloud,CRM Standard,450,5,0.0,2250.0,862.38
+ORD-1180,2024-08-29,CUST-237,Europe,Hardware,Power Supply 850W,140,1,0.15,119.0,20.25
+ORD-1488,2024-08-29,CUST-232,Asia-Pacific,Electronics,Laptop Pro,1200,6,0.2,5760.0,1141.28
+ORD-1800,2024-08-29,CUST-155,Asia-Pacific,Software & Cloud,Security Vault,750,1,0.15,637.5,200.76
+ORD-1957,2024-08-29,CUST-166,North America,Software & Cloud,CRM Standard,450,6,0.15,2295.0,825.06
+ORD-1842,2024-08-30,CUST-201,North America,Software & Cloud,Cloud Storage Pro,300,2,0.0,600.0,108.58
+ORD-1874,2024-08-30,CUST-241,Latin America,Electronics,Laptop Pro,1200,5,0.05,5700.0,2037.94
+ORD-1148,2024-08-31,CUST-172,North America,Software & Cloud,SaaS Enterprise License,2500,2,0.0,5000.0,1906.37
+ORD-1477,2024-08-31,CUST-231,Europe,Software & Cloud,CRM Standard,450,9,0.15,3442.5,1405.9
+ORD-2140,2024-08-31,CUST-241,Latin America,Electronics,Smart Watch,250,1,0.0,250.0,106.04
+ORD-1216,2024-09-01,CUST-111,North America,Software & Cloud,CRM Standard,450,1,0.0,450.0,146.43
+ORD-2040,2024-09-01,CUST-145,North America,Hardware,Graphics Card RTX,850,5,0.15,3612.5,1537.32
+ORD-1496,2024-09-02,CUST-214,North America,Electronics,Laptop Pro,1200,3,0.05,3420.0,876.48
+ORD-1557,2024-09-02,CUST-193,Europe,Office Supplies,Ergonomic Chair,350,7,0.2,1960.0,746.44
+ORD-1916,2024-09-02,CUST-215,Europe,Electronics,Wireless Headphone,150,4,0.15,510.0,201.2
+ORD-2007,2024-09-02,CUST-110,North America,Software & Cloud,Cloud Storage Pro,300,1,0.15,255.0,112.66
+ORD-1085,2024-09-03,CUST-237,Latin America,Office Supplies,Mechanical Keyboard,120,1,0.2,96.0,37.34
+ORD-1430,2024-09-03,CUST-164,Europe,Hardware,Motherboard Z790,280,8,0.15,1904.0,426.88
+ORD-1729,2024-09-03,CUST-121,Asia-Pacific,Office Supplies,Ergonomic Chair,350,6,0.0,2100.0,846.92
+ORD-1332,2024-09-04,CUST-186,North America,Hardware,NVMe SSD 1TB,110,4,0.15,374.0,167.37
+ORD-1856,2024-09-05,CUST-217,Europe,Electronics,Laptop Pro,1200,6,0.15,6120.0,1263.59
+ORD-1554,2024-09-06,CUST-180,North America,Hardware,RAM Kit 32GB,130,2,0.0,260.0,87.93
+ORD-1182,2024-09-07,CUST-233,North America,Software & Cloud,Security Vault,750,7,0.2,4200.0,657.88
+ORD-1599,2024-09-07,CUST-113,Europe,Office Supplies,Mechanical Keyboard,120,9,0.15,918.0,190.34
+ORD-1654,2024-09-07,CUST-138,Europe,Software & Cloud,Security Vault,750,5,0.0,3750.0,1151.62
+ORD-1796,2024-09-07,CUST-137,Asia-Pacific,Software & Cloud,AI Analytics Suite,1800,6,0.05,10260.0,3379.05
+ORD-1899,2024-09-07,CUST-150,Latin America,Electronics,Ultra Monitor,450,2,0.0,900.0,385.18
+ORD-1027,2024-09-08,CUST-101,Latin America,Hardware,Graphics Card RTX,850,9,0.15,6502.5,2008.59
+ORD-1827,2024-09-08,CUST-157,North America,Software & Cloud,Cloud Storage Pro,300,6,0.05,1710.0,562.32
+ORD-1075,2024-09-09,CUST-109,Latin America,Office Supplies,Standing Desk,550,3,0.2,1320.0,440.91
+ORD-1093,2024-09-09,CUST-113,North America,Hardware,Graphics Card RTX,850,7,0.05,5652.5,2115.4
+ORD-1523,2024-09-09,CUST-248,Asia-Pacific,Electronics,Laptop Pro,1200,3,0.15,3060.0,1277.59
+ORD-2025,2024-09-09,CUST-127,Europe,Software & Cloud,Cloud Storage Pro,300,1,0.05,285.0,52.43
+ORD-2095,2024-09-09,CUST-221,North America,Electronics,Smart Watch,250,3,0.1,675.0,264.82
+ORD-1028,2024-09-10,CUST-198,Asia-Pacific,Hardware,Motherboard Z790,280,5,0.1,1260.0,260.33
+ORD-1296,2024-09-10,CUST-159,North America,Hardware,Graphics Card RTX,850,2,0.1,1530.0,353.35
+ORD-2171,2024-09-10,CUST-105,North America,Software & Cloud,CRM Standard,450,5,0.0,2250.0,551.2
+ORD-1133,2024-09-11,CUST-191,North America,Electronics,Laptop Pro,1200,5,0.1,5400.0,2247.69
+ORD-1343,2024-09-11,CUST-236,Europe,Electronics,Tablet Air,600,4,0.2,1920.0,633.01
+ORD-1788,2024-09-11,CUST-200,North America,Hardware,Motherboard Z790,280,9,0.15,2142.0,607.79
+ORD-1952,2024-09-11,CUST-121,North America,Hardware,Motherboard Z790,280,1,0.05,266.0,77.64
+ORD-1601,2024-09-12,CUST-124,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,2,0.2,4000.0,1278.5
+ORD-2199,2024-09-12,CUST-141,Europe,Software & Cloud,Cloud Storage Pro,300,7,0.2,1680.0,258.87
+ORD-1128,2024-09-13,CUST-161,North America,Hardware,Motherboard Z790,280,7,0.1,1764.0,375.68
+ORD-1212,2024-09-13,CUST-156,North America,Electronics,Ultra Monitor,450,8,0.1,3240.0,1408.02
+ORD-1348,2024-09-13,CUST-105,North America,Hardware,NVMe SSD 1TB,110,2,0.0,220.0,35.62
+ORD-1927,2024-09-13,CUST-241,Europe,Electronics,Tablet Air,600,2,0.2,960.0,389.53
+ORD-2013,2024-09-13,CUST-248,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,5,0.15,1275.0,495.71
+ORD-1280,2024-09-14,CUST-109,North America,Office Supplies,Paper Shredder,90,5,0.15,382.5,75.35
+ORD-1285,2024-09-14,CUST-187,North America,Electronics,Tablet Air,600,4,0.1,2160.0,949.4
+ORD-1521,2024-09-14,CUST-126,Latin America,Hardware,Power Supply 850W,140,1,0.2,112.0,19.06
+ORD-2169,2024-09-14,CUST-176,Asia-Pacific,Hardware,Graphics Card RTX,850,5,0.1,3825.0,657.8
+ORD-1360,2024-09-15,CUST-230,Europe,Hardware,Power Supply 850W,140,5,0.05,665.0,205.48
+ORD-2010,2024-09-15,CUST-215,Asia-Pacific,Software & Cloud,AI Analytics Suite,1800,8,0.1,12960.0,3540.41
+ORD-1007,2024-09-16,CUST-113,Asia-Pacific,Office Supplies,Paper Shredder,90,2,0.05,171.0,48.72
+ORD-1998,2024-09-16,CUST-188,Asia-Pacific,Hardware,RAM Kit 32GB,130,5,0.2,520.0,180.34
+ORD-1117,2024-09-17,CUST-135,Asia-Pacific,Electronics,Ultra Monitor,450,2,0.1,810.0,277.3
+ORD-1455,2024-09-18,CUST-148,Asia-Pacific,Hardware,RAM Kit 32GB,130,5,0.1,585.0,108.61
+ORD-1986,2024-09-18,CUST-212,Europe,Hardware,Graphics Card RTX,850,4,0.1,3060.0,848.57
+ORD-1644,2024-09-19,CUST-201,Europe,Software & Cloud,CRM Standard,450,4,0.0,1800.0,648.23
+ORD-1131,2024-09-20,CUST-186,Latin America,Electronics,Smart Watch,250,3,0.05,712.5,194.24
+ORD-1245,2024-09-20,CUST-102,North America,Office Supplies,Standing Desk,550,3,0.15,1402.5,346.84
+ORD-1556,2024-09-20,CUST-115,Europe,Software & Cloud,Cloud Storage Pro,300,7,0.2,1680.0,487.01
+ORD-1005,2024-09-21,CUST-107,North America,Office Supplies,Paper Shredder,90,2,0.15,153.0,34.01
+ORD-1262,2024-09-22,CUST-182,North America,Electronics,Wireless Headphone,150,2,0.2,240.0,80.6
+ORD-1469,2024-09-22,CUST-173,Europe,Office Supplies,Ergonomic Chair,350,3,0.05,997.5,235.65
+ORD-1472,2024-09-22,CUST-158,Europe,Electronics,Laptop Pro,1200,6,0.0,7200.0,2215.63
+ORD-1622,2024-09-22,CUST-204,Europe,Hardware,Graphics Card RTX,850,8,0.0,6800.0,2295.67
+ORD-1773,2024-09-22,CUST-138,Europe,Hardware,Motherboard Z790,280,8,0.2,1792.0,420.05
+ORD-1122,2024-09-23,CUST-156,North America,Software & Cloud,SaaS Enterprise License,2500,5,0.2,10000.0,1996.56
+ORD-1146,2024-09-23,CUST-153,Europe,Hardware,Power Supply 850W,140,4,0.0,560.0,205.22
+ORD-1866,2024-09-23,CUST-240,Latin America,Electronics,Wireless Headphone,150,3,0.15,382.5,108.78
+ORD-1012,2024-09-24,CUST-203,North America,Office Supplies,Ergonomic Chair,350,7,0.2,1960.0,723.01
+ORD-1153,2024-09-24,CUST-131,Asia-Pacific,Software & Cloud,AI Analytics Suite,1800,9,0.2,12960.0,4548.64
+ORD-2156,2024-09-24,CUST-118,Latin America,Software & Cloud,SaaS Enterprise License,2500,6,0.15,12750.0,2056.69
+ORD-1567,2024-09-25,CUST-182,North America,Hardware,Graphics Card RTX,850,1,0.0,850.0,215.96
+ORD-1757,2024-09-25,CUST-165,North America,Office Supplies,Standing Desk,550,5,0.15,2337.5,651.3
+ORD-1458,2024-09-26,CUST-182,Asia-Pacific,Office Supplies,Paper Shredder,90,7,0.15,535.5,170.13
+ORD-1608,2024-09-26,CUST-128,North America,Office Supplies,Paper Shredder,90,4,0.15,306.0,115.58
+ORD-1920,2024-09-26,CUST-122,Europe,Software & Cloud,SaaS Enterprise License,2500,1,0.0,2500.0,518.75
+ORD-1969,2024-09-26,CUST-221,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,7,0.2,14000.0,4542.11
+ORD-1008,2024-09-27,CUST-181,Europe,Hardware,RAM Kit 32GB,130,9,0.2,936.0,249.54
+ORD-1236,2024-09-27,CUST-148,North America,Office Supplies,Standing Desk,550,9,0.2,3960.0,1670.2
+ORD-1453,2024-09-27,CUST-221,Asia-Pacific,Hardware,Power Supply 850W,140,6,0.0,840.0,156.75
+ORD-1505,2024-09-27,CUST-227,North America,Software & Cloud,AI Analytics Suite,1800,5,0.0,9000.0,3519.55
+ORD-1572,2024-09-27,CUST-194,North America,Software & Cloud,Security Vault,750,9,0.2,5400.0,1214.12
+ORD-1596,2024-09-27,CUST-105,North America,Hardware,Graphics Card RTX,850,9,0.2,6120.0,2573.31
+ORD-2119,2024-09-27,CUST-130,North America,Office Supplies,Mechanical Keyboard,120,6,0.05,684.0,238.36
+ORD-1611,2024-09-28,CUST-118,Europe,Office Supplies,Paper Shredder,90,6,0.15,459.0,149.38
+ORD-2000,2024-09-28,CUST-196,Latin America,Hardware,RAM Kit 32GB,130,8,0.1,936.0,387.98
+ORD-1059,2024-09-29,CUST-199,North America,Electronics,Ultra Monitor,450,9,0.2,3240.0,1356.45
+ORD-1107,2024-09-29,CUST-148,Asia-Pacific,Electronics,Smart Watch,250,8,0.1,1800.0,458.39
+ORD-1264,2024-09-29,CUST-223,Asia-Pacific,Electronics,Ultra Monitor,450,4,0.2,1440.0,485.52
+ORD-1377,2024-09-29,CUST-118,North America,Software & Cloud,Security Vault,750,2,0.0,1500.0,581.63
+ORD-1404,2024-09-29,CUST-239,Latin America,Hardware,NVMe SSD 1TB,110,9,0.2,792.0,231.76
+ORD-1451,2024-09-29,CUST-201,Asia-Pacific,Hardware,RAM Kit 32GB,130,9,0.1,1053.0,397.72
+ORD-1538,2024-09-29,CUST-170,North America,Hardware,Graphics Card RTX,850,3,0.1,2295.0,887.76
+ORD-1555,2024-09-29,CUST-122,North America,Hardware,Graphics Card RTX,850,8,0.05,6460.0,2807.2
+ORD-1897,2024-09-29,CUST-198,Europe,Software & Cloud,CRM Standard,450,6,0.05,2565.0,794.94
+ORD-1660,2024-09-30,CUST-207,North America,Software & Cloud,AI Analytics Suite,1800,2,0.15,3060.0,1149.45
+ORD-1339,2024-10-01,CUST-129,North America,Software & Cloud,Security Vault,750,8,0.2,4800.0,1498.61
+ORD-1639,2024-10-01,CUST-208,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,9,0.15,918.0,259.71
+ORD-1814,2024-10-01,CUST-101,Europe,Software & Cloud,Cloud Storage Pro,300,4,0.0,1200.0,185.11
+ORD-1994,2024-10-01,CUST-160,North America,Hardware,Graphics Card RTX,850,6,0.0,5100.0,1620.2
+ORD-1527,2024-10-02,CUST-127,Europe,Hardware,Power Supply 850W,140,7,0.1,882.0,378.15
+ORD-1698,2024-10-02,CUST-202,Europe,Hardware,NVMe SSD 1TB,110,2,0.0,220.0,81.13
+ORD-1759,2024-10-02,CUST-199,Europe,Software & Cloud,AI Analytics Suite,1800,7,0.15,10710.0,3858.38
+ORD-1329,2024-10-03,CUST-133,North America,Hardware,Graphics Card RTX,850,1,0.2,680.0,187.7
+ORD-1513,2024-10-03,CUST-161,North America,Hardware,Graphics Card RTX,850,4,0.05,3230.0,1045.36
+ORD-1530,2024-10-03,CUST-188,Europe,Hardware,Motherboard Z790,280,7,0.0,1960.0,672.82
+ORD-1286,2024-10-04,CUST-118,North America,Software & Cloud,CRM Standard,450,1,0.1,405.0,96.9
+ORD-1582,2024-10-04,CUST-248,Asia-Pacific,Hardware,Motherboard Z790,280,1,0.0,280.0,53.58
+ORD-1841,2024-10-04,CUST-216,Asia-Pacific,Office Supplies,Paper Shredder,90,7,0.05,598.5,204.5
+ORD-2014,2024-10-04,CUST-135,North America,Hardware,Graphics Card RTX,850,1,0.0,850.0,292.32
+ORD-1225,2024-10-05,CUST-164,North America,Software & Cloud,CRM Standard,450,1,0.0,450.0,111.83
+ORD-1516,2024-10-05,CUST-160,North America,Office Supplies,Ergonomic Chair,350,6,0.0,2100.0,481.36
+ORD-1776,2024-10-05,CUST-132,Asia-Pacific,Office Supplies,Ergonomic Chair,350,4,0.2,1120.0,409.61
+ORD-1009,2024-10-06,CUST-164,North America,Office Supplies,Ergonomic Chair,350,9,0.2,2520.0,984.46
+ORD-1037,2024-10-07,CUST-185,North America,Office Supplies,Standing Desk,550,3,0.05,1567.5,524.33
+ORD-1231,2024-10-07,CUST-118,North America,Hardware,Power Supply 850W,140,3,0.15,357.0,153.63
+ORD-1337,2024-10-07,CUST-230,Asia-Pacific,Hardware,Graphics Card RTX,850,6,0.0,5100.0,1212.09
+ORD-1891,2024-10-07,CUST-139,Europe,Software & Cloud,CRM Standard,450,8,0.1,3240.0,494.38
+ORD-2028,2024-10-07,CUST-159,North America,Software & Cloud,SaaS Enterprise License,2500,6,0.05,14250.0,6409.11
+ORD-2051,2024-10-07,CUST-102,North America,Software & Cloud,CRM Standard,450,3,0.15,1147.5,388.61
+ORD-2075,2024-10-07,CUST-122,North America,Software & Cloud,CRM Standard,450,5,0.0,2250.0,965.16
+ORD-2184,2024-10-07,CUST-175,Europe,Hardware,RAM Kit 32GB,130,2,0.05,247.0,86.13
+ORD-1228,2024-10-08,CUST-111,North America,Hardware,Graphics Card RTX,850,6,0.15,4335.0,683.6
+ORD-1571,2024-10-08,CUST-126,North America,Hardware,Graphics Card RTX,850,3,0.1,2295.0,546.85
+ORD-1894,2024-10-08,CUST-117,North America,Electronics,Tablet Air,600,1,0.1,540.0,153.59
+ORD-1118,2024-10-09,CUST-239,Latin America,Electronics,Ultra Monitor,450,8,0.05,3420.0,1484.91
+ORD-1326,2024-10-09,CUST-247,Asia-Pacific,Electronics,Laptop Pro,1200,3,0.0,3600.0,571.71
+ORD-1414,2024-10-09,CUST-234,North America,Office Supplies,Paper Shredder,90,9,0.05,769.5,157.38
+ORD-1034,2024-10-10,CUST-246,Europe,Software & Cloud,SaaS Enterprise License,2500,5,0.15,10625.0,3896.57
+ORD-1213,2024-10-10,CUST-148,Asia-Pacific,Electronics,Smart Watch,250,5,0.2,1000.0,310.05
+ORD-1484,2024-10-10,CUST-184,Europe,Electronics,Tablet Air,600,9,0.05,5130.0,1981.29
+ORD-1126,2024-10-11,CUST-148,North America,Software & Cloud,AI Analytics Suite,1800,6,0.05,10260.0,1579.3
+ORD-1129,2024-10-11,CUST-177,Asia-Pacific,Electronics,Tablet Air,600,8,0.1,4320.0,733.16
+ORD-1136,2024-10-11,CUST-247,North America,Hardware,Graphics Card RTX,850,2,0.0,1700.0,671.9
+ORD-1429,2024-10-11,CUST-179,Latin America,Software & Cloud,CRM Standard,450,2,0.0,900.0,394.24
+ORD-1494,2024-10-11,CUST-215,North America,Software & Cloud,CRM Standard,450,7,0.2,2520.0,923.78
+ORD-1634,2024-10-11,CUST-188,North America,Office Supplies,Ergonomic Chair,350,6,0.05,1995.0,662.62
+ORD-1725,2024-10-11,CUST-141,North America,Electronics,Wireless Headphone,150,9,0.1,1215.0,301.03
+ORD-1084,2024-10-12,CUST-178,North America,Software & Cloud,AI Analytics Suite,1800,3,0.05,5130.0,1305.47
+ORD-1648,2024-10-12,CUST-178,Europe,Hardware,NVMe SSD 1TB,110,3,0.15,280.5,75.79
+ORD-1895,2024-10-12,CUST-229,Latin America,Office Supplies,Paper Shredder,90,7,0.0,630.0,185.25
+ORD-1121,2024-10-13,CUST-139,Asia-Pacific,Office Supplies,Ergonomic Chair,350,6,0.1,1890.0,701.06
+ORD-1211,2024-10-13,CUST-175,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,3,0.05,855.0,243.36
+ORD-1222,2024-10-13,CUST-162,Latin America,Hardware,Motherboard Z790,280,5,0.0,1400.0,254.77
+ORD-1450,2024-10-13,CUST-109,Europe,Office Supplies,Standing Desk,550,2,0.0,1100.0,253.72
+ORD-1553,2024-10-13,CUST-130,North America,Electronics,Tablet Air,600,4,0.0,2400.0,378.17
+ORD-1592,2024-10-13,CUST-170,Latin America,Software & Cloud,AI Analytics Suite,1800,9,0.2,12960.0,5196.31
+ORD-1633,2024-10-13,CUST-134,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,3,0.2,6000.0,2623.74
+ORD-1132,2024-10-14,CUST-166,North America,Office Supplies,Paper Shredder,90,8,0.0,720.0,227.17
+ORD-1202,2024-10-14,CUST-136,Latin America,Software & Cloud,Security Vault,750,2,0.05,1425.0,493.02
+ORD-1930,2024-10-14,CUST-163,North America,Hardware,Graphics Card RTX,850,2,0.2,1360.0,490.58
+ORD-2089,2024-10-14,CUST-170,Asia-Pacific,Office Supplies,Standing Desk,550,9,0.2,3960.0,1338.0
+ORD-2187,2024-10-14,CUST-161,Europe,Office Supplies,Mechanical Keyboard,120,9,0.2,864.0,315.97
+ORD-1011,2024-10-15,CUST-234,Asia-Pacific,Software & Cloud,CRM Standard,450,7,0.05,2992.5,552.9
+ORD-1114,2024-10-15,CUST-196,Asia-Pacific,Hardware,Power Supply 850W,140,4,0.2,448.0,87.59
+ORD-1115,2024-10-15,CUST-222,Asia-Pacific,Office Supplies,LED Desk Lamp,45,6,0.05,256.5,97.15
+ORD-1883,2024-10-15,CUST-129,North America,Office Supplies,Mechanical Keyboard,120,2,0.15,204.0,78.44
+ORD-1956,2024-10-15,CUST-236,North America,Office Supplies,Paper Shredder,90,1,0.0,90.0,15.8
+ORD-2061,2024-10-15,CUST-193,North America,Office Supplies,Mechanical Keyboard,120,2,0.15,204.0,38.34
+ORD-2112,2024-10-15,CUST-156,Europe,Office Supplies,Ergonomic Chair,350,1,0.2,280.0,59.46
+ORD-1391,2024-10-16,CUST-102,Europe,Office Supplies,LED Desk Lamp,45,6,0.1,243.0,61.88
+ORD-1394,2024-10-16,CUST-152,Asia-Pacific,Software & Cloud,AI Analytics Suite,1800,8,0.1,12960.0,2029.64
+ORD-1539,2024-10-16,CUST-114,North America,Software & Cloud,Security Vault,750,2,0.05,1425.0,245.74
+ORD-1110,2024-10-17,CUST-161,North America,Electronics,Tablet Air,600,5,0.1,2700.0,943.81
+ORD-1124,2024-10-17,CUST-229,Europe,Software & Cloud,Security Vault,750,9,0.05,6412.5,2731.45
+ORD-1134,2024-10-17,CUST-241,North America,Hardware,Power Supply 850W,140,4,0.15,476.0,166.8
+ORD-1227,2024-10-17,CUST-108,North America,Hardware,Graphics Card RTX,850,3,0.05,2422.5,915.23
+ORD-1350,2024-10-17,CUST-148,North America,Hardware,Motherboard Z790,280,4,0.0,1120.0,341.57
+ORD-1900,2024-10-17,CUST-246,North America,Office Supplies,Mechanical Keyboard,120,8,0.1,864.0,302.33
+ORD-2136,2024-10-17,CUST-128,North America,Hardware,Motherboard Z790,280,1,0.1,252.0,77.15
+ORD-1653,2024-10-18,CUST-115,Europe,Office Supplies,LED Desk Lamp,45,9,0.05,384.75,77.58
+ORD-1967,2024-10-18,CUST-192,North America,Electronics,Ultra Monitor,450,1,0.05,427.5,124.38
+ORD-1162,2024-10-19,CUST-220,Europe,Electronics,Laptop Pro,1200,5,0.0,6000.0,1097.04
+ORD-1237,2024-10-19,CUST-188,North America,Hardware,Graphics Card RTX,850,8,0.1,6120.0,2480.76
+ORD-1540,2024-10-19,CUST-203,North America,Office Supplies,Ergonomic Chair,350,8,0.15,2380.0,555.76
+ORD-1992,2024-10-19,CUST-140,Latin America,Electronics,Tablet Air,600,3,0.2,1440.0,586.82
+ORD-1002,2024-10-20,CUST-121,North America,Office Supplies,LED Desk Lamp,45,5,0.0,225.0,54.29
+ORD-1316,2024-10-20,CUST-131,North America,Hardware,Power Supply 850W,140,3,0.1,378.0,145.86
+ORD-1368,2024-10-20,CUST-164,North America,Hardware,Motherboard Z790,280,8,0.05,2128.0,856.56
+ORD-1907,2024-10-20,CUST-205,North America,Software & Cloud,CRM Standard,450,9,0.0,4050.0,1093.93
+ORD-1549,2024-10-21,CUST-233,Europe,Hardware,Power Supply 850W,140,9,0.2,1008.0,420.3
+ORD-2017,2024-10-21,CUST-241,Europe,Office Supplies,LED Desk Lamp,45,3,0.15,114.75,44.72
+ORD-1361,2024-10-22,CUST-164,North America,Office Supplies,Ergonomic Chair,350,9,0.15,2677.5,638.62
+ORD-1620,2024-10-22,CUST-126,Europe,Office Supplies,Mechanical Keyboard,120,3,0.15,306.0,59.83
+ORD-1684,2024-10-22,CUST-216,North America,Hardware,Motherboard Z790,280,1,0.15,238.0,54.36
+ORD-2102,2024-10-22,CUST-156,North America,Office Supplies,Ergonomic Chair,350,4,0.1,1260.0,402.85
+ORD-1615,2024-10-24,CUST-227,Asia-Pacific,Electronics,Wireless Headphone,150,7,0.15,892.5,395.54
+ORD-1751,2024-10-24,CUST-162,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,1,0.15,2125.0,836.28
+ORD-2036,2024-10-24,CUST-248,Europe,Hardware,Power Supply 850W,140,1,0.0,140.0,38.91
+ORD-1522,2024-10-25,CUST-194,North America,Electronics,Smart Watch,250,3,0.2,600.0,173.85
+ORD-1641,2024-10-25,CUST-138,Latin America,Electronics,Ultra Monitor,450,9,0.15,3442.5,1189.63
+ORD-1096,2024-10-26,CUST-166,Europe,Electronics,Laptop Pro,1200,4,0.0,4800.0,1697.91
+ORD-1873,2024-10-26,CUST-179,Europe,Software & Cloud,CRM Standard,450,6,0.05,2565.0,735.31
+ORD-1886,2024-10-26,CUST-170,North America,Office Supplies,Mechanical Keyboard,120,9,0.05,1026.0,350.06
+ORD-1975,2024-10-26,CUST-239,Asia-Pacific,Hardware,RAM Kit 32GB,130,7,0.0,910.0,170.79
+ORD-2134,2024-10-26,CUST-127,Europe,Hardware,Graphics Card RTX,850,8,0.2,5440.0,1122.84
+ORD-1421,2024-10-27,CUST-164,North America,Software & Cloud,AI Analytics Suite,1800,5,0.15,7650.0,2038.34
+ORD-1475,2024-10-27,CUST-237,North America,Hardware,NVMe SSD 1TB,110,9,0.15,841.5,363.44
+ORD-1682,2024-10-27,CUST-234,Asia-Pacific,Hardware,Graphics Card RTX,850,8,0.1,6120.0,2437.29
+ORD-1844,2024-10-27,CUST-137,North America,Hardware,Motherboard Z790,280,7,0.05,1862.0,781.71
+ORD-2159,2024-10-27,CUST-140,Asia-Pacific,Hardware,Graphics Card RTX,850,1,0.0,850.0,240.81
+ORD-1036,2024-10-28,CUST-166,North America,Electronics,Smart Watch,250,1,0.15,212.5,50.65
+ORD-1284,2024-10-28,CUST-191,North America,Hardware,RAM Kit 32GB,130,6,0.1,702.0,162.02
+ORD-1753,2024-10-28,CUST-109,North America,Hardware,Motherboard Z790,280,6,0.0,1680.0,277.84
+ORD-1860,2024-10-28,CUST-186,Europe,Office Supplies,Ergonomic Chair,350,9,0.2,2520.0,846.53
+ORD-2120,2024-10-28,CUST-184,North America,Software & Cloud,SaaS Enterprise License,2500,3,0.2,6000.0,1045.28
+ORD-1623,2024-10-29,CUST-206,North America,Electronics,Tablet Air,600,6,0.0,3600.0,1457.4
+ORD-2011,2024-10-29,CUST-204,North America,Electronics,Wireless Headphone,150,2,0.05,285.0,80.2
+ORD-2059,2024-10-29,CUST-102,Europe,Hardware,Graphics Card RTX,850,1,0.1,765.0,217.28
+ORD-1032,2024-10-30,CUST-214,Europe,Hardware,Power Supply 850W,140,1,0.0,140.0,43.79
+ORD-1229,2024-10-30,CUST-169,Asia-Pacific,Electronics,Ultra Monitor,450,4,0.1,1620.0,614.73
+ORD-1524,2024-10-30,CUST-199,North America,Electronics,Smart Watch,250,6,0.05,1425.0,515.63
+ORD-1762,2024-10-30,CUST-230,North America,Software & Cloud,AI Analytics Suite,1800,5,0.1,8100.0,1881.11
+ORD-1824,2024-10-30,CUST-100,Asia-Pacific,Hardware,Motherboard Z790,280,6,0.15,1428.0,566.24
+ORD-1151,2024-10-31,CUST-161,Latin America,Electronics,Laptop Pro,1200,9,0.0,10800.0,2219.83
+ORD-1204,2024-10-31,CUST-207,Asia-Pacific,Office Supplies,Paper Shredder,90,8,0.15,612.0,207.24
+ORD-1621,2024-10-31,CUST-124,North America,Hardware,Graphics Card RTX,850,6,0.15,4335.0,1009.09
+ORD-1919,2024-10-31,CUST-128,Asia-Pacific,Office Supplies,LED Desk Lamp,45,5,0.15,191.25,45.28
+ORD-1651,2024-11-01,CUST-103,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,4,0.0,480.0,90.26
+ORD-2180,2024-11-01,CUST-137,North America,Hardware,Power Supply 850W,140,1,0.2,112.0,47.99
+ORD-1004,2024-11-02,CUST-159,Europe,Software & Cloud,CRM Standard,450,9,0.05,3847.5,1672.38
+ORD-1346,2024-11-02,CUST-154,Europe,Office Supplies,LED Desk Lamp,45,9,0.2,324.0,110.77
+ORD-1359,2024-11-02,CUST-220,North America,Software & Cloud,CRM Standard,450,2,0.1,810.0,343.43
+ORD-1269,2024-11-03,CUST-181,Europe,Hardware,Motherboard Z790,280,4,0.05,1064.0,263.24
+ORD-1803,2024-11-03,CUST-167,North America,Software & Cloud,CRM Standard,450,7,0.0,3150.0,629.54
+ORD-1807,2024-11-03,CUST-240,Asia-Pacific,Electronics,Smart Watch,250,3,0.15,637.5,203.1
+ORD-1145,2024-11-05,CUST-125,North America,Software & Cloud,SaaS Enterprise License,2500,3,0.2,6000.0,1985.67
+ORD-1585,2024-11-05,CUST-159,North America,Electronics,Smart Watch,250,1,0.2,200.0,42.25
+ORD-1959,2024-11-05,CUST-226,North America,Electronics,Smart Watch,250,8,0.05,1900.0,584.79
+ORD-2066,2024-11-05,CUST-109,North America,Office Supplies,LED Desk Lamp,45,2,0.0,90.0,25.8
+ORD-2122,2024-11-05,CUST-216,Asia-Pacific,Software & Cloud,SaaS Enterprise License,2500,3,0.0,7500.0,2519.03
+ORD-1078,2024-11-06,CUST-201,Latin America,Office Supplies,LED Desk Lamp,45,1,0.2,36.0,16.2
+ORD-1158,2024-11-06,CUST-240,North America,Software & Cloud,Cloud Storage Pro,300,2,0.1,540.0,222.7
+ORD-1248,2024-11-06,CUST-239,Latin America,Hardware,Graphics Card RTX,850,9,0.15,6502.5,1653.4
+ORD-1610,2024-11-06,CUST-229,Europe,Hardware,Motherboard Z790,280,4,0.0,1120.0,258.11
+ORD-1040,2024-11-08,CUST-243,North America,Hardware,Motherboard Z790,280,4,0.0,1120.0,191.84
+ORD-1446,2024-11-08,CUST-185,Asia-Pacific,Office Supplies,Paper Shredder,90,4,0.1,324.0,134.4
+ORD-1809,2024-11-08,CUST-155,Latin America,Electronics,Wireless Headphone,150,5,0.15,637.5,272.9
+ORD-1881,2024-11-08,CUST-136,North America,Office Supplies,Paper Shredder,90,4,0.0,360.0,158.27
+ORD-2127,2024-11-08,CUST-236,Europe,Electronics,Smart Watch,250,4,0.2,800.0,261.31
+ORD-2192,2024-11-08,CUST-176,North America,Hardware,NVMe SSD 1TB,110,8,0.2,704.0,313.92
+ORD-1602,2024-11-09,CUST-109,North America,Office Supplies,Ergonomic Chair,350,9,0.1,2835.0,937.63
+ORD-2009,2024-11-09,CUST-229,Asia-Pacific,Hardware,NVMe SSD 1TB,110,7,0.2,616.0,108.18
+ORD-2132,2024-11-09,CUST-144,North America,Hardware,NVMe SSD 1TB,110,1,0.05,104.5,29.27
+ORD-1528,2024-11-10,CUST-212,Europe,Electronics,Smart Watch,250,5,0.15,1062.5,316.88
+ORD-1820,2024-11-10,CUST-126,Asia-Pacific,Hardware,RAM Kit 32GB,130,6,0.05,741.0,298.95
+ORD-2047,2024-11-10,CUST-204,North America,Electronics,Wireless Headphone,150,6,0.05,855.0,196.37
+ORD-1209,2024-11-11,CUST-244,North America,Electronics,Laptop Pro,1200,4,0.05,4560.0,814.32
+ORD-1617,2024-11-11,CUST-187,Asia-Pacific,Hardware,NVMe SSD 1TB,110,7,0.2,616.0,171.79
+ORD-2175,2024-11-11,CUST-142,Latin America,Office Supplies,Ergonomic Chair,350,9,0.1,2835.0,1175.79
+ORD-2194,2024-11-11,CUST-229,Latin America,Office Supplies,Ergonomic Chair,350,9,0.2,2520.0,821.5
+ORD-1068,2024-11-12,CUST-191,Latin America,Software & Cloud,SaaS Enterprise License,2500,7,0.0,17500.0,6200.46
+ORD-2034,2024-11-12,CUST-179,North America,Office Supplies,LED Desk Lamp,45,1,0.2,36.0,8.82
+ORD-2087,2024-11-12,CUST-115,North America,Hardware,RAM Kit 32GB,130,6,0.1,702.0,191.65
+ORD-1511,2024-11-13,CUST-143,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,4,0.0,1200.0,185.27
+ORD-1981,2024-11-13,CUST-212,North America,Software & Cloud,SaaS Enterprise License,2500,3,0.1,6750.0,1095.69
+ORD-1983,2024-11-13,CUST-169,Latin America,Software & Cloud,SaaS Enterprise License,2500,4,0.05,9500.0,2704.89
+ORD-2062,2024-11-13,CUST-174,North America,Software & Cloud,Security Vault,750,6,0.0,4500.0,1412.93
+ORD-1045,2024-11-14,CUST-216,North America,Software & Cloud,Security Vault,750,7,0.05,4987.5,786.06
+ORD-1164,2024-11-14,CUST-103,North America,Office Supplies,Mechanical Keyboard,120,2,0.0,240.0,89.52
+ORD-1179,2024-11-14,CUST-247,Europe,Hardware,RAM Kit 32GB,130,5,0.2,520.0,201.05
+ORD-1297,2024-11-14,CUST-157,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,6,0.2,576.0,215.3
+ORD-1467,2024-11-14,CUST-116,North America,Office Supplies,Ergonomic Chair,350,9,0.05,2992.5,852.97
+ORD-1482,2024-11-14,CUST-190,Europe,Electronics,Smart Watch,250,6,0.0,1500.0,339.01
+ORD-1547,2024-11-14,CUST-181,Europe,Software & Cloud,CRM Standard,450,1,0.0,450.0,194.46
+ORD-1289,2024-11-15,CUST-145,Europe,Office Supplies,Standing Desk,550,9,0.05,4702.5,1752.64
+ORD-1400,2024-11-15,CUST-236,Asia-Pacific,Electronics,Ultra Monitor,450,9,0.0,4050.0,765.36
+ORD-2074,2024-11-15,CUST-113,North America,Electronics,Wireless Headphone,150,9,0.1,1215.0,448.16
+ORD-1387,2024-11-18,CUST-134,North America,Office Supplies,Standing Desk,550,5,0.15,2337.5,914.74
+ORD-1508,2024-11-18,CUST-231,Europe,Software & Cloud,AI Analytics Suite,1800,6,0.1,9720.0,3518.55
+ORD-1597,2024-11-18,CUST-180,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,1,0.15,102.0,25.22
+ORD-1673,2024-11-18,CUST-181,Asia-Pacific,Office Supplies,Paper Shredder,90,5,0.0,450.0,74.38
+ORD-1357,2024-11-19,CUST-183,Latin America,Office Supplies,Ergonomic Chair,350,4,0.05,1330.0,236.32
+ORD-1591,2024-11-19,CUST-195,Asia-Pacific,Hardware,Power Supply 850W,140,4,0.2,448.0,96.78
+ORD-1746,2024-11-19,CUST-184,Europe,Electronics,Laptop Pro,1200,5,0.05,5700.0,2506.57
+ORD-1301,2024-11-20,CUST-212,Europe,Electronics,Ultra Monitor,450,2,0.1,810.0,127.87
+ORD-1607,2024-11-20,CUST-200,North America,Office Supplies,LED Desk Lamp,45,6,0.2,216.0,72.99
+ORD-1717,2024-11-20,CUST-165,North America,Electronics,Ultra Monitor,450,3,0.0,1350.0,433.66
+ORD-1817,2024-11-20,CUST-116,Asia-Pacific,Office Supplies,Standing Desk,550,9,0.1,4455.0,1485.31
+ORD-2027,2024-11-20,CUST-155,North America,Electronics,Wireless Headphone,150,6,0.0,900.0,293.58
+ORD-2193,2024-11-20,CUST-220,Europe,Electronics,Ultra Monitor,450,2,0.15,765.0,308.54
+ORD-1735,2024-11-21,CUST-157,North America,Office Supplies,Ergonomic Chair,350,4,0.0,1400.0,275.42
+ORD-1851,2024-11-21,CUST-189,Asia-Pacific,Hardware,NVMe SSD 1TB,110,3,0.05,313.5,109.27
+ORD-1923,2024-11-21,CUST-173,North America,Software & Cloud,CRM Standard,450,2,0.15,765.0,242.68
+ORD-2043,2024-11-21,CUST-169,North America,Office Supplies,LED Desk Lamp,45,7,0.0,315.0,112.44
+ORD-1719,2024-11-22,CUST-181,North America,Electronics,Laptop Pro,1200,1,0.15,1020.0,309.79
+ORD-1838,2024-11-22,CUST-119,North America,Electronics,Wireless Headphone,150,6,0.0,900.0,168.65
+ORD-1857,2024-11-22,CUST-113,Latin America,Software & Cloud,SaaS Enterprise License,2500,8,0.2,16000.0,2483.99
+ORD-2103,2024-11-22,CUST-172,Europe,Software & Cloud,SaaS Enterprise License,2500,6,0.15,12750.0,5630.6
+ORD-1171,2024-11-23,CUST-127,North America,Software & Cloud,CRM Standard,450,2,0.2,720.0,155.56
+ORD-1462,2024-11-23,CUST-171,North America,Software & Cloud,AI Analytics Suite,1800,2,0.1,3240.0,1096.41
+ORD-1764,2024-11-23,CUST-134,North America,Electronics,Laptop Pro,1200,6,0.05,6840.0,2394.54
+ORD-2064,2024-11-23,CUST-154,North America,Electronics,Laptop Pro,1200,2,0.0,2400.0,578.31
+ORD-2113,2024-11-23,CUST-100,North America,Electronics,Laptop Pro,1200,5,0.0,6000.0,1015.65
+ORD-1278,2024-11-24,CUST-167,Asia-Pacific,Office Supplies,Standing Desk,550,3,0.0,1650.0,373.93
+ORD-1692,2024-11-24,CUST-231,North America,Software & Cloud,Security Vault,750,8,0.0,6000.0,1455.84
+ORD-1989,2024-11-24,CUST-240,Asia-Pacific,Hardware,Power Supply 850W,140,4,0.15,476.0,151.31
+ORD-2069,2024-11-24,CUST-122,North America,Office Supplies,Ergonomic Chair,350,7,0.05,2327.5,482.85
+ORD-1086,2024-11-25,CUST-152,North America,Electronics,Ultra Monitor,450,4,0.2,1440.0,639.37
+ORD-1772,2024-11-25,CUST-137,Europe,Software & Cloud,Cloud Storage Pro,300,6,0.0,1800.0,606.7
+ORD-2048,2024-11-25,CUST-113,North America,Software & Cloud,Security Vault,750,3,0.05,2137.5,323.76
+ORD-2179,2024-11-25,CUST-208,Europe,Hardware,Motherboard Z790,280,7,0.1,1764.0,632.53
+ORD-1001,2024-11-26,CUST-101,Asia-Pacific,Software & Cloud,CRM Standard,450,4,0.1,1620.0,253.0
+ORD-1017,2024-11-26,CUST-228,North America,Hardware,Graphics Card RTX,850,7,0.15,5057.5,1299.22
+ORD-1100,2024-11-26,CUST-139,Europe,Office Supplies,Ergonomic Chair,350,7,0.1,2205.0,677.71
+ORD-1481,2024-11-26,CUST-226,Asia-Pacific,Hardware,Graphics Card RTX,850,7,0.05,5652.5,2348.55
+ORD-1509,2024-11-26,CUST-223,North America,Office Supplies,Mechanical Keyboard,120,2,0.0,240.0,62.87
+ORD-1704,2024-11-26,CUST-177,Europe,Office Supplies,Mechanical Keyboard,120,2,0.15,204.0,79.71
+ORD-1708,2024-11-26,CUST-226,Europe,Office Supplies,Paper Shredder,90,1,0.05,85.5,23.13
+ORD-1934,2024-11-26,CUST-117,North America,Hardware,Graphics Card RTX,850,8,0.2,5440.0,1008.59
+ORD-1980,2024-11-26,CUST-221,Europe,Office Supplies,Ergonomic Chair,350,6,0.15,1785.0,718.16
+ORD-2044,2024-11-26,CUST-155,Latin America,Hardware,NVMe SSD 1TB,110,8,0.1,792.0,269.41
+ORD-1358,2024-11-27,CUST-204,Europe,Office Supplies,Mechanical Keyboard,120,9,0.05,1026.0,359.69
+ORD-1447,2024-11-27,CUST-186,Europe,Office Supplies,Mechanical Keyboard,120,4,0.0,480.0,194.17
+ORD-1580,2024-11-27,CUST-221,Asia-Pacific,Software & Cloud,Cloud Storage Pro,300,8,0.2,1920.0,429.84
+ORD-1604,2024-11-27,CUST-117,Asia-Pacific,Electronics,Wireless Headphone,150,2,0.1,270.0,43.69
+ORD-2086,2024-11-27,CUST-122,Latin America,Hardware,NVMe SSD 1TB,110,7,0.05,731.5,263.56
+ORD-1668,2024-11-28,CUST-212,Europe,Electronics,Laptop Pro,1200,7,0.05,7980.0,1640.55
+ORD-1996,2024-11-28,CUST-130,North America,Electronics,Ultra Monitor,450,1,0.15,382.5,87.06
+ORD-1906,2024-11-29,CUST-189,Asia-Pacific,Hardware,NVMe SSD 1TB,110,1,0.2,88.0,29.64
+ORD-1938,2024-11-29,CUST-248,North America,Hardware,NVMe SSD 1TB,110,9,0.1,891.0,285.08
+ORD-2150,2024-11-29,CUST-240,Europe,Electronics,Smart Watch,250,2,0.0,500.0,116.11
+ORD-1711,2024-11-30,CUST-178,North America,Software & Cloud,AI Analytics Suite,1800,2,0.15,3060.0,672.96
+ORD-1219,2024-12-01,CUST-107,North America,Office Supplies,Standing Desk,550,7,0.05,3657.5,755.29
+ORD-1307,2024-12-01,CUST-172,Europe,Hardware,Graphics Card RTX,850,9,0.2,6120.0,1410.3
+ORD-1322,2024-12-01,CUST-139,Europe,Software & Cloud,CRM Standard,450,3,0.1,1215.0,283.18
+ORD-1492,2024-12-01,CUST-208,Europe,Electronics,Laptop Pro,1200,5,0.2,4800.0,1285.53
+ORD-1624,2024-12-01,CUST-172,Europe,Office Supplies,Standing Desk,550,9,0.05,4702.5,1285.72
+ORD-1629,2024-12-01,CUST-247,Latin America,Electronics,Ultra Monitor,450,8,0.0,3600.0,872.52
+ORD-1738,2024-12-01,CUST-133,Europe,Software & Cloud,CRM Standard,450,3,0.1,1215.0,252.24
+ORD-2117,2024-12-01,CUST-179,Europe,Software & Cloud,Security Vault,750,6,0.2,3600.0,1590.44
+ORD-2182,2024-12-01,CUST-127,Europe,Software & Cloud,CRM Standard,450,5,0.05,2137.5,454.42
+ORD-1385,2024-12-02,CUST-166,Europe,Electronics,Laptop Pro,1200,1,0.1,1080.0,263.06
+ORD-2019,2024-12-02,CUST-228,Latin America,Office Supplies,LED Desk Lamp,45,9,0.05,384.75,155.97
+ORD-1031,2024-12-03,CUST-132,Europe,Office Supplies,Mechanical Keyboard,120,9,0.15,918.0,333.83
+ORD-1330,2024-12-03,CUST-238,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,9,0.0,1080.0,434.63
+ORD-1152,2024-12-04,CUST-124,Latin America,Hardware,Motherboard Z790,280,1,0.2,224.0,80.12
+ORD-1526,2024-12-04,CUST-160,North America,Electronics,Ultra Monitor,450,3,0.1,1215.0,428.7
+ORD-1531,2024-12-04,CUST-192,Latin America,Electronics,Ultra Monitor,450,1,0.15,382.5,62.23
+ORD-1760,2024-12-04,CUST-121,North America,Office Supplies,LED Desk Lamp,45,6,0.2,216.0,90.55
+ORD-1683,2024-12-05,CUST-130,North America,Software & Cloud,AI Analytics Suite,1800,9,0.2,12960.0,4150.02
+ORD-1715,2024-12-05,CUST-149,Europe,Electronics,Tablet Air,600,5,0.1,2700.0,1130.0
+ORD-2055,2024-12-05,CUST-176,Asia-Pacific,Hardware,RAM Kit 32GB,130,9,0.15,994.5,342.85
+ORD-1050,2024-12-06,CUST-109,Latin America,Software & Cloud,Security Vault,750,1,0.2,600.0,161.73
+ORD-1378,2024-12-06,CUST-217,North America,Hardware,RAM Kit 32GB,130,5,0.0,650.0,236.12
+ORD-1616,2024-12-06,CUST-237,Europe,Electronics,Smart Watch,250,5,0.05,1187.5,332.87
+ORD-1618,2024-12-06,CUST-191,North America,Hardware,Graphics Card RTX,850,2,0.15,1445.0,234.15
+ORD-1786,2024-12-06,CUST-184,Europe,Office Supplies,Ergonomic Chair,350,4,0.1,1260.0,452.01
+ORD-1924,2024-12-06,CUST-111,North America,Software & Cloud,AI Analytics Suite,1800,1,0.1,1620.0,507.44
+ORD-2138,2024-12-06,CUST-125,Europe,Electronics,Ultra Monitor,450,5,0.2,1800.0,332.79
+ORD-1254,2024-12-07,CUST-148,North America,Hardware,Motherboard Z790,280,4,0.05,1064.0,319.57
+ORD-1374,2024-12-07,CUST-197,North America,Electronics,Smart Watch,250,7,0.1,1575.0,404.55
+ORD-2052,2024-12-07,CUST-193,Europe,Electronics,Ultra Monitor,450,1,0.1,405.0,106.58
+ORD-1178,2024-12-09,CUST-173,Europe,Electronics,Smart Watch,250,6,0.1,1350.0,510.72
+ORD-1543,2024-12-09,CUST-195,North America,Software & Cloud,Cloud Storage Pro,300,7,0.1,1890.0,602.95
+ORD-1003,2024-12-10,CUST-163,Europe,Electronics,Smart Watch,250,3,0.15,637.5,193.97
+ORD-2077,2024-12-11,CUST-229,North America,Software & Cloud,Security Vault,750,8,0.1,5400.0,1438.72
+ORD-1125,2024-12-12,CUST-187,North America,Electronics,Smart Watch,250,3,0.0,750.0,224.63
+ORD-1173,2024-12-12,CUST-191,Asia-Pacific,Electronics,Tablet Air,600,1,0.1,540.0,221.64
+ORD-1331,2024-12-12,CUST-165,North America,Software & Cloud,SaaS Enterprise License,2500,4,0.2,8000.0,2822.83
+ORD-1714,2024-12-12,CUST-155,Europe,Office Supplies,Standing Desk,550,1,0.2,440.0,153.54
+ORD-2164,2024-12-12,CUST-102,Europe,Electronics,Tablet Air,600,8,0.2,3840.0,682.29
+ORD-1199,2024-12-13,CUST-231,Europe,Office Supplies,LED Desk Lamp,45,7,0.1,283.5,118.63
+ORD-1489,2024-12-13,CUST-183,Europe,Electronics,Wireless Headphone,150,7,0.1,945.0,372.55
+ORD-1780,2024-12-15,CUST-164,North America,Software & Cloud,Cloud Storage Pro,300,7,0.1,1890.0,443.35
+ORD-2039,2024-12-15,CUST-243,Europe,Office Supplies,Standing Desk,550,2,0.05,1045.0,319.02
+ORD-2196,2024-12-15,CUST-183,Europe,Hardware,Power Supply 850W,140,9,0.15,1071.0,191.19
+ORD-1825,2024-12-16,CUST-201,Asia-Pacific,Hardware,Graphics Card RTX,850,5,0.15,3612.5,750.23
+ORD-1277,2024-12-17,CUST-235,Asia-Pacific,Hardware,Graphics Card RTX,850,6,0.15,4335.0,1819.27
+ORD-1382,2024-12-17,CUST-242,Europe,Office Supplies,Standing Desk,550,4,0.1,1980.0,417.71
+ORD-1789,2024-12-18,CUST-155,North America,Hardware,NVMe SSD 1TB,110,5,0.15,467.5,124.54
+ORD-1811,2024-12-18,CUST-139,North America,Electronics,Tablet Air,600,3,0.05,1710.0,553.29
+ORD-1836,2024-12-18,CUST-110,Asia-Pacific,Electronics,Tablet Air,600,3,0.1,1620.0,369.7
+ORD-1939,2024-12-18,CUST-105,Europe,Hardware,Power Supply 850W,140,1,0.0,140.0,56.13
+ORD-1955,2024-12-18,CUST-100,Asia-Pacific,Software & Cloud,Security Vault,750,8,0.2,4800.0,1530.22
+ORD-2141,2024-12-18,CUST-128,North America,Electronics,Laptop Pro,1200,7,0.1,7560.0,2526.93
+ORD-1398,2024-12-19,CUST-192,North America,Software & Cloud,AI Analytics Suite,1800,9,0.15,13770.0,3728.01
+ORD-1767,2024-12-19,CUST-118,Latin America,Office Supplies,Paper Shredder,90,6,0.0,540.0,238.11
+ORD-1044,2024-12-20,CUST-246,Asia-Pacific,Software & Cloud,Security Vault,750,2,0.15,1275.0,464.58
+ORD-1138,2024-12-20,CUST-219,Latin America,Hardware,Graphics Card RTX,850,6,0.15,4335.0,832.47
+ORD-1568,2024-12-20,CUST-139,Europe,Office Supplies,Mechanical Keyboard,120,1,0.05,114.0,28.84
+ORD-2078,2024-12-20,CUST-241,North America,Software & Cloud,SaaS Enterprise License,2500,8,0.15,17000.0,2649.18
+ORD-1120,2024-12-21,CUST-205,Asia-Pacific,Hardware,RAM Kit 32GB,130,5,0.2,520.0,188.33
+ORD-1298,2024-12-21,CUST-245,North America,Hardware,Power Supply 850W,140,4,0.0,560.0,156.92
+ORD-1169,2024-12-22,CUST-128,Asia-Pacific,Office Supplies,Mechanical Keyboard,120,9,0.1,972.0,225.39
+ORD-1362,2024-12-22,CUST-120,Europe,Electronics,Laptop Pro,1200,9,0.0,10800.0,1838.33
+ORD-2093,2024-12-22,CUST-224,Europe,Hardware,Graphics Card RTX,850,6,0.05,4845.0,1983.36
+ORD-1220,2024-12-23,CUST-213,North America,Electronics,Wireless Headphone,150,1,0.05,142.5,37.38
+ORD-1701,2024-12-23,CUST-171,North America,Hardware,Power Supply 850W,140,1,0.0,140.0,58.94
+ORD-1805,2024-12-23,CUST-191,Latin America,Software & Cloud,Security Vault,750,3,0.2,1800.0,322.22
+ORD-1854,2024-12-23,CUST-163,North America,Office Supplies,Ergonomic Chair,350,8,0.0,2800.0,882.48
+ORD-1565,2024-12-24,CUST-127,Asia-Pacific,Hardware,Power Supply 850W,140,1,0.1,126.0,26.17
+ORD-1826,2024-12-24,CUST-140,Asia-Pacific,Office Supplies,Standing Desk,550,1,0.15,467.5,126.94
+ORD-1915,2024-12-24,CUST-168,Europe,Electronics,Laptop Pro,1200,6,0.1,6480.0,2181.76
+ORD-1250,2024-12-25,CUST-183,Europe,Hardware,RAM Kit 32GB,130,1,0.0,130.0,45.69
+ORD-1365,2024-12-25,CUST-133,North America,Software & Cloud,Cloud Storage Pro,300,9,0.15,2295.0,614.81
+ORD-2012,2024-12-25,CUST-164,Europe,Hardware,Graphics Card RTX,850,7,0.05,5652.5,2084.78
+ORD-1203,2024-12-26,CUST-196,Asia-Pacific,Software & Cloud,AI Analytics Suite,1800,3,0.1,4860.0,1050.58
+ORD-1770,2024-12-27,CUST-248,North America,Hardware,Motherboard Z790,280,6,0.05,1596.0,371.91
+ORD-2079,2024-12-27,CUST-180,North America,Electronics,Laptop Pro,1200,4,0.0,4800.0,1521.66
+ORD-2024,2024-12-28,CUST-176,Latin America,Electronics,Wireless Headphone,150,8,0.15,1020.0,356.32
+ORD-1230,2024-12-29,CUST-146,North America,Software & Cloud,AI Analytics Suite,1800,5,0.1,8100.0,1233.38
+ORD-1306,2024-12-29,CUST-113,North America,Office Supplies,LED Desk Lamp,45,7,0.1,283.5,65.97
+ORD-1328,2024-12-29,CUST-175,North America,Hardware,NVMe SSD 1TB,110,5,0.05,522.5,206.79
+ORD-1364,2024-12-29,CUST-140,Europe,Office Supplies,Mechanical Keyboard,120,3,0.15,306.0,99.08
+ORD-1933,2024-12-29,CUST-122,Asia-Pacific,Office Supplies,LED Desk Lamp,45,4,0.15,153.0,55.05
+ORD-1982,2024-12-29,CUST-144,Europe,Office Supplies,Ergonomic Chair,350,3,0.15,892.5,321.92
+ORD-1917,2024-12-30,CUST-227,Europe,Office Supplies,Ergonomic Chair,350,8,0.15,2380.0,449.04
