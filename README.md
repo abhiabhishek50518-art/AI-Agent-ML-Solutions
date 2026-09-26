@@ -9,6 +9,10 @@ An end-to-end **AI-Powered Sales Intelligence & Recommendation System** featurin
 
 Developed as an **Internship Submission Project** adhering to the **9-Week Project Milestones** roadmap.
 
+🌐 **Live Demo URL**: [https://c079e599b2b71bd9-49-200-190-214.serveousercontent.com](https://c079e599b2b71bd9-49-200-190-214.serveousercontent.com)  
+🐙 **GitHub Repository**: [https://github.com/abhiabhishek50518-art/AI-Agent-ML-Solutions](https://github.com/abhiabhishek50518-art/AI-Agent-ML-Solutions)
+
+
 ---
 
 ## 📅 Project Milestones & Execution Roadmap
